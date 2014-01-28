@@ -17,4 +17,9 @@ SFMonumentNamesPerPanelPlainText.txt -- raw data from Adobe Illustrator with som
 
 Please. Hack. This.
 
+A couple ideas:
+
+* Mobile name finder
+* SVG version of the monument
+
 [monwiki]: https://wiki.mozilla.org/Monument
