@@ -1,3 +1,4 @@
+
 #!/bin/bash
 
 ## mozmonuent2json.sh
@@ -16,8 +17,8 @@ spaces="   "
 
 input=`cat $inputfile`
 
-lineno=1
-filelineno=0
+row=1
+filerow=0
 
 filelength=`cat $inputfile | wc -l | sed 's/ //g'`
 
@@ -32,11 +33,11 @@ for line in $input; do
 		side=`echo $line | sed 's/^==side\+//g' | sed 's/\+lower==//g' | sed 's/\+upper==//g'`
 		panel=`echo $line | sed 's/^==side\+[1-4]\+//g' | sed 's/==//g'`
 		
-		lineno=1
+		row=1
 		
 	else
 
-		echo "side=$side,panel=$panel,line=$lineno,$line"
+		echo "side=$side,panel=$panel,row=$row,$line"
 		
 		nameno=1
 		
@@ -47,17 +48,17 @@ for line in $input; do
 			name=`echo ${ary[$key]} | sed 's/+/ /g'`
 			
 			echo "$spaces{" >> $outputfile
-  			echo "$spaces$spaces\"side\": \"$side\"," >> $outputfile
-  			echo "$spaces$spaces\"panel\": \"$panel\"," >> $outputfile
-  			echo "$spaces$spaces\"line\": \"$lineno\"," >> $outputfile
-  			echo "$spaces$spaces\"number\": \"$nameno\"," >> $outputfile
-  			echo "$spaces$spaces\"name\": \"$name\"" >> $outputfile
+			echo "$spaces$spaces\"side\": \"$side\"," >> $outputfile
+			echo "$spaces$spaces\"panel\": \"$panel\"," >> $outputfile
+			echo "$spaces$spaces\"row\": \"$row\"," >> $outputfile
+			echo "$spaces$spaces\"number\": \"$nameno\"," >> $outputfile
+			echo "$spaces$spaces\"name\": \"$name\"" >> $outputfile
 			echo "$spaces}" >> $outputfile 
 			
 			keyplus=$key
 			(( keyplus++ ))
 			
-			if [ "$filelineno" != "$filelength" ] || [ "$keyplus" != "${#ary[*]}" ]; then
+			if [ "$filerow" != "$filelength" ] || [ "$keyplus" != "${#ary[*]}" ]; then
             	echo "$spaces," >> $outputfile
         	fi
 			
@@ -65,11 +66,11 @@ for line in $input; do
 			
 		done
 		  
-		(( lineno++ ))
+		(( row++ ))
 			
     fi
     
-    (( filelineno++ ))
+    (( filerow++ ))
     
 done
 
