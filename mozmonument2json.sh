@@ -24,7 +24,7 @@ filelength=`cat $inputfile | wc -l | sed 's/ //g'`
 
 echo $filelength
 
-echo "[" > $outputfile
+echo "{\"monument\": [" > $outputfile
 
 for line in $input; do
 
@@ -74,4 +74,4 @@ for line in $input; do
     
 done
 
-echo "]" >> $outputfile
+echo "]}" >> $outputfile
