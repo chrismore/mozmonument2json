@@ -13,6 +13,8 @@ mozmonument2json-nested.sh -- shell script to create the nested json.
 
 mozmonument2json.sh -- shell script used to create the flat json.
 
+mozmonument.csv -- names in csv format.
+
 SFMonumentNamesPerPanelPlainText.txt -- raw data from Adobe Illustrator with some regex applied to make it easier to parse.
 
 Side key:
