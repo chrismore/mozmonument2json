@@ -23,7 +23,7 @@ RowID,name,number,panel,row,side
 22,Manish Dangol,6,upper,3,1
 23,Ralf Baechle,7,upper,3,1
 24,Irina Parievsky,8,upper,3,1
-25,Hu?nh H?i ??ng,9,upper,3,1
+25,Huỳnh Hải Đăng,9,upper,3,1
 26,Spinger Wang,1,upper,4,1
 27,Matt Ternoway,2,upper,4,1
 28,Yoe One Ariestya Niovitta,3,upper,4,1
@@ -41,7 +41,7 @@ RowID,name,number,panel,row,side
 40,Sandro Della Giustina,7,upper,5,1
 41,Sahar Fadayian,8,upper,5,1
 42,Jean Austin Rodriguez,9,upper,5,1
-43,JusaÌ Prieto,1,upper,6,1
+43,Jusaí Prieto,1,upper,6,1
 44,Robert Sayles,2,upper,6,1
 45,Dave Herman,3,upper,6,1
 46,Mark Reid,4,upper,6,1
@@ -87,7 +87,7 @@ RowID,name,number,panel,row,side
 86,Jeff Griffiths,4,upper,10,1
 87,Lars Lohn,5,upper,10,1
 88,Peko Chen,6,upper,10,1
-89,Artur Osi?ski,7,upper,10,1
+89,Artur Osiński,7,upper,10,1
 90,Annie Butler Elliott,8,upper,10,1
 91,John Slater,9,upper,10,1
 92,Hezron Obuchele,10,upper,10,1
@@ -113,7 +113,7 @@ RowID,name,number,panel,row,side
 112,Fu-Hung Yen,1,upper,13,1
 113,Md Atiqur Rahman,2,upper,13,1
 114,Gert-Paul van der Beek,3,upper,13,1
-115,Vincent BÈron,4,upper,13,1
+115,Vincent Béron,4,upper,13,1
 116,Amancio Hasty,5,upper,13,1
 117,Arjuna Rao Chavala,6,upper,13,1
 118,Michele Dal Corso,7,upper,13,1
@@ -136,7 +136,7 @@ RowID,name,number,panel,row,side
 135,Bingqing Li,6,upper,15,1
 136,Crystal Beasley,7,upper,15,1
 137,Eleftherios Kosmas,8,upper,15,1
-138,Matej Priterûnik,9,upper,15,1
+138,Matej Priteržnik,9,upper,15,1
 139,John Daggett,1,upper,16,1
 140,Brandon Benvie,2,upper,16,1
 141,Bryce Nesbitt,3,upper,16,1
@@ -148,15 +148,15 @@ RowID,name,number,panel,row,side
 147,Maria Ulfah,9,upper,16,1
 148,Mike Gleeson,10,upper,16,1
 149,Mike Kowalski,1,upper,17,1
-150,FranÁois Marier,2,upper,17,1
+150,François Marier,2,upper,17,1
 151,Charles Perry,3,upper,17,1
 152,Chak Nanga,4,upper,17,1
-153,Carlos Sim„o,5,upper,17,1
+153,Carlos Simão,5,upper,17,1
 154,Brian geeknik Carpenter,6,upper,17,1
 155,Muhammad Refa Utama Putra,7,upper,17,1
 156,Gr Coustenoble,8,upper,17,1
 157,Audree Halasz,1,upper,18,1
-158,éiga Sancin,2,upper,18,1
+158,Žiga Sancin,2,upper,18,1
 159,Michae Balazs,3,upper,18,1
 160,Maureen Hanratty,4,upper,18,1
 161,Wei Deng,5,upper,18,1
@@ -191,9 +191,9 @@ RowID,name,number,panel,row,side
 190,Jordi Juan P,8,upper,21,1
 191,Josh Soref,9,upper,21,1
 192,A Daniel Roberts,10,upper,21,1
-193,Viridiana PÈrez,1,upper,22,1
+193,Viridiana Pérez,1,upper,22,1
 194,Barbara Brisson,2,upper,22,1
-195,Diarmaid Mac Math˙na,3,upper,22,1
+195,Diarmaid Mac Mathúna,3,upper,22,1
 196,Priya Patel,4,upper,22,1
 197,Joseph Samake,5,upper,22,1
 198,Jamus Jegier,6,upper,22,1
@@ -218,22 +218,22 @@ RowID,name,number,panel,row,side
 217,Muhammad Ali Makki,6,upper,24,1
 218,Safwan Rahman,7,upper,24,1
 219,Pete Fritchman,8,upper,24,1
-220,VinÌcius Medina,9,upper,24,1
+220,Vinícius Medina,9,upper,24,1
 221,Lin Yu Min,1,upper,25,1
 222,Teo Zyczkowski,2,upper,25,1
 223,Nathan Torkington,3,upper,25,1
-224,Micha? Klapek Sadowski,4,upper,25,1
+224,Michał Klapek Sadowski,4,upper,25,1
 225,Sotaro Ikeda,5,upper,25,1
-226,Leonard NorrgÂrd,6,upper,25,1
+226,Leonard Norrgård,6,upper,25,1
 227,David Thompson,7,upper,25,1
-228,Alem Hamzi?,8,upper,25,1
+228,Alem Hamzić,8,upper,25,1
 229,Emanuele Costa,1,upper,26,1
 230,Ally Naaktgeboren,2,upper,26,1
 231,Paula Le Dieu,3,upper,26,1
 232,Marcio Galli,4,upper,26,1
 233,Camilo Viecco,5,upper,26,1
 234,Abhishek Potnis,6,upper,26,1
-235,Cl·udio EsperanÁa,7,upper,26,1
+235,Cláudio Esperança,7,upper,26,1
 236,Nagasahas Dasa,8,upper,26,1
 237,Eric Krock,9,upper,26,1
 238,Tanvi Vyas,1,upper,27,1
@@ -252,14 +252,14 @@ RowID,name,number,panel,row,side
 251,Kelfin Eka Putra Wardani,5,upper,28,1
 252,Cathleen Wang,6,upper,28,1
 253,Marco Zehe,7,upper,28,1
-254,Tam·s Moln·r,8,upper,28,1
+254,Tamás Molnár,8,upper,28,1
 255,Benjamin Bouvier,1,upper,29,1
 256,Daniel Desira,2,upper,29,1
 257,Michael Davis,3,upper,29,1
 258,Brian Stell,4,upper,29,1
 259,Chris Lord,5,upper,29,1
 260,Med Mack,6,upper,29,1
-261,StÈffano Lopes Heckler,7,upper,29,1
+261,Stéffano Lopes Heckler,7,upper,29,1
 262,Arief Bayu Purwanto,8,upper,29,1
 263,Corey Shields,9,upper,29,1
 264,Rafi Anik,10,upper,29,1
@@ -269,12 +269,12 @@ RowID,name,number,panel,row,side
 268,Osho Parth,4,upper,30,1
 269,Andrea Guzman Siu,5,upper,30,1
 270,Vidar Braut Haarr,6,upper,30,1
-271,Eduardo Tr·pani,7,upper,30,1
+271,Eduardo Trápani,7,upper,30,1
 272,Kevin Chiou,8,upper,30,1
 273,Rudy Lu,9,upper,30,1
 274,Heather Payne,10,upper,30,1
 275,Alive Kuo,11,upper,30,1
-276,J¯rgen Juel,1,upper,31,1
+276,Jørgen Juel,1,upper,31,1
 277,Nigel Babu,2,upper,31,1
 278,Mansheng Yang,3,upper,31,1
 279,Magnus Melin,4,upper,31,1
@@ -299,7 +299,7 @@ RowID,name,number,panel,row,side
 298,Brian Ryner,3,upper,33,1
 299,Juan Antonio Aguilera Tamayo,4,upper,33,1
 300,Maria Simarangkir,5,upper,33,1
-301,Ana-Maria Antolovi?,6,upper,33,1
+301,Ana-Maria Antolović,6,upper,33,1
 302,Edgar Chen,7,upper,33,1
 303,Gautam Akiwate,8,upper,33,1
 304,Brian Burg,9,upper,33,1
@@ -339,7 +339,7 @@ RowID,name,number,panel,row,side
 338,Tim Chevalier,8,upper,37,1
 339,Yung-Fong Tang,9,upper,37,1
 340,Antoine Turmel,1,upper,38,1
-341,S¯ren L¯nbÊk Nygaard Christensen,2,upper,38,1
+341,Søren Lønbæk Nygaard Christensen,2,upper,38,1
 342,Matthias Versen,3,upper,38,1
 343,Tina Ornduff,4,upper,38,1
 344,Daniel Reinaldo Zorro Forero,5,upper,38,1
@@ -352,7 +352,7 @@ RowID,name,number,panel,row,side
 351,Jose Eduardo Martinez Ramirez,5,upper,39,1
 352,Yusuke Yamamoto,6,upper,39,1
 353,Alex Keybl,7,upper,39,1
-354,Saöa Tekovi?,8,upper,39,1
+354,Saša Teković,8,upper,39,1
 355,Akash Yadav,9,upper,39,1
 356,Ben Bangert,1,upper,40,1
 357,Anna Sobiepanek,2,upper,40,1
@@ -365,7 +365,7 @@ RowID,name,number,panel,row,side
 364,Piniel Hasibuan,9,upper,40,1
 365,Jerry L Kirk,1,upper,41,1
 366,Maruf Ovee,2,upper,41,1
-367,Sˆren Hentzschel,3,upper,41,1
+367,Sören Hentzschel,3,upper,41,1
 368,Michael Yoshitaka Erlewine,4,upper,41,1
 369,Kevin McCluskey,5,upper,41,1
 370,Jamie Mahoney,6,upper,41,1
@@ -388,7 +388,7 @@ RowID,name,number,panel,row,side
 387,Robert Lord,4,upper,43,1
 388,HJ van Rantwijk,5,upper,43,1
 389,Diogo Fino Tavares,6,upper,43,1
-390,Artur Ara˙jo,7,upper,43,1
+390,Artur Araújo,7,upper,43,1
 391,Mark LaVine,8,upper,43,1
 392,Eric Jung,9,upper,43,1
 393,Tyler Downer,10,upper,43,1
@@ -425,7 +425,7 @@ RowID,name,number,panel,row,side
 424,Havi Hoffman,6,upper,47,1
 425,Chen Hua,7,upper,47,1
 426,Jonathan Hage,8,upper,47,1
-427,FrÈdÈric Buclin,9,upper,47,1
+427,Frédéric Buclin,9,upper,47,1
 428,Daniele Scasciafratte,10,upper,47,1
 429,James,11,upper,47,1
 430,Straus,1,upper,48,1
@@ -454,7 +454,7 @@ RowID,name,number,panel,row,side
 453,Nicholas Cull,9,upper,50,1
 454,Mark Lanett,10,upper,50,1
 455,Jim Gellman,1,upper,51,1
-456,Gaöper Derûani?,2,upper,51,1
+456,Gašper Deržanič,2,upper,51,1
 457,Sergi Mansilla,3,upper,51,1
 458,Andrew Williamson,4,upper,51,1
 459,Vinay Goud Pattapuri,5,upper,51,1
@@ -483,22 +483,22 @@ RowID,name,number,panel,row,side
 482,Adhi Wicaksono,8,upper,53,1
 483,Armen Zambrano Gasparnian,9,upper,53,1
 484,Jens Hatlak,1,upper,54,1
-485,MatÌas Haeussler Risco,2,upper,54,1
+485,Matías Haeussler Risco,2,upper,54,1
 486,Tobias Leingruber,3,upper,54,1
 487,Michael Ventnor,4,upper,54,1
-488,Eduardo Esc·rez,5,upper,54,1
+488,Eduardo Escárez,5,upper,54,1
 489,Alexander Limi,6,upper,54,1
-490,Krzysztof WrÛblewski,7,upper,54,1
-491,Ernesto GÛmez,8,upper,54,1
+490,Krzysztof Wróblewski,7,upper,54,1
+491,Ernesto Gómez,8,upper,54,1
 492,James Burke,1,upper,55,1
 493,Misak Khachatryan,2,upper,55,1
-494,J?nis-Marks Gailis,3,upper,55,1
+494,Jānis-Marks Gailis,3,upper,55,1
 495,Barry Munsterteiger,4,upper,55,1
 496,Sjoerd Visscher,5,upper,55,1
 497,Theresa Alvarez,6,upper,55,1
 498,Clayton Lewis,7,upper,55,1
 499,Fabien Cazenave,8,upper,55,1
-500,Fabi·n RodrÌguez,1,upper,56,1
+500,Fabián Rodríguez,1,upper,56,1
 501,Matthew Harmsen,2,upper,56,1
 502,Josh Dhaliwal,3,upper,56,1
 503,Onur Avsar,4,upper,56,1
@@ -530,8 +530,8 @@ RowID,name,number,panel,row,side
 529,Tony Robinson,5,upper,59,1
 530,Fernando Herrera,6,upper,59,1
 531,Edward Kandrot,7,upper,59,1
-532,Kristj·n Bjarni Gumundsson,8,upper,59,1
-533,Micha?,9,upper,59,1
+532,Kristján Bjarni Guðmundsson,8,upper,59,1
+533,Michał,9,upper,59,1
 534,Pasek,1,upper,60,1
 535,Deiby Od,2,upper,60,1
 536,Dejan Strbad,3,upper,60,1
@@ -560,7 +560,7 @@ RowID,name,number,panel,row,side
 559,Johannes Vogel,6,upper,62,1
 560,Huda Sarfraz,7,upper,62,1
 561,Dan Sutch,8,upper,62,1
-562,Matija äantl,1,upper,63,1
+562,Matija Šantl,1,upper,63,1
 563,Christopher Henderson,2,upper,63,1
 564,Peter Scanlon,3,upper,63,1
 565,Tim Olson,4,upper,63,1
@@ -568,7 +568,7 @@ RowID,name,number,panel,row,side
 567,Leonard Camacho,6,upper,63,1
 568,Constantin Drabo,7,upper,63,1
 569,John Yeuk Hon Wong,8,upper,63,1
-570,JÈrÙme Schell,9,upper,63,1
+570,Jérôme Schell,9,upper,63,1
 571,Lucas Rocha,1,upper,64,1
 572,Nancy J Miller,2,upper,64,1
 573,Liz Henry,3,upper,64,1
@@ -580,7 +580,7 @@ RowID,name,number,panel,row,side
 579,Kyle Huey,9,upper,64,1
 580,Adam Moss,10,upper,64,1
 581,Francisco Castanheiro,1,upper,65,1
-582,Enrique EstÈvez,2,upper,65,1
+582,Enrique Estévez,2,upper,65,1
 583,Ratnadeep Debnath,3,upper,65,1
 584,Bill Selman,4,upper,65,1
 585,Matti Aarnio,5,upper,65,1
@@ -599,11 +599,11 @@ RowID,name,number,panel,row,side
 598,Jessie Li,9,lower,1,1
 599,arifrhb,10,lower,1,1
 600,Laura Thomson,11,lower,1,1
-601,D·ithi Mac Sithigh,1,lower,2,1
+601,Dáithi Mac Sithigh,1,lower,2,1
 602,Jeff Vier,2,lower,2,1
 603,Matt N,3,lower,2,1
 604,Esther Goes,4,lower,2,1
-605,Jan Odv·rko,5,lower,2,1
+605,Jan Odvárko,5,lower,2,1
 606,Li Kang-Ming,6,lower,2,1
 607,Rerng-rit Rakkanittakorn,7,lower,2,1
 608,Bob Silverberg,8,lower,2,1
@@ -611,8 +611,8 @@ RowID,name,number,panel,row,side
 610,Gery Escalier,10,lower,2,1
 611,Paul Davis,1,lower,3,1
 612,Stephen Crane,2,lower,3,1
-613,éiga Milek,3,lower,3,1
-614,Lejla Selimovi?,4,lower,3,1
+613,Žiga Milek,3,lower,3,1
+614,Lejla Selimović,4,lower,3,1
 615,NIANG Mouhamadou Moustapha,5,lower,3,1
 616,Peter Linss,6,lower,3,1
 617,Koike Kazuhiko,7,lower,3,1
@@ -624,7 +624,7 @@ RowID,name,number,panel,row,side
 623,Javier Pardina Garcia,3,lower,4,1
 624,Etienne Segonzac,4,lower,4,1
 625,Rachel Berenbaum,5,lower,4,1
-626,Aleö Petrova?ki,6,lower,4,1
+626,Aleš Petrovački,6,lower,4,1
 627,Adam Becevello,7,lower,4,1
 628,Gabor Krizsanits,8,lower,4,1
 629,Ting-Yuan,9,lower,4,1
@@ -689,7 +689,7 @@ RowID,name,number,panel,row,side
 688,Ben Mesander,3,lower,11,1
 689,Jacques Uber,4,lower,11,1
 690,Christopher Yeh,5,lower,11,1
-691,F·bio Magnoni,6,lower,11,1
+691,Fábio Magnoni,6,lower,11,1
 692,Giorgio Maone,7,lower,11,1
 693,Carlos Rodrigues,8,lower,11,1
 694,Lainie DeCoursy,9,lower,11,1
@@ -725,16 +725,16 @@ RowID,name,number,panel,row,side
 724,Makoto Kato,1,lower,15,1
 725,Jeyakumaran Mayooresan,2,lower,15,1
 726,Thomas Austin,3,lower,15,1
-727,Nicol·s Lichtmaier,4,lower,15,1
+727,Nicolás Lichtmaier,4,lower,15,1
 728,Mihca Degele,5,lower,15,1
 729,Andrzej Janusz Skalski,6,lower,15,1
-730,MÌche·l John ” Meachair,7,lower,15,1
+730,Mícheál John Ó Meachair,7,lower,15,1
 731,Crysgem,8,lower,15,1
 732,Shay Gueron,1,lower,16,1
 733,Vit Lai,2,lower,16,1
 734,Jithin Shah MA,3,lower,16,1
 735,Alan S Jones,4,lower,16,1
-736,AndrÈ R,5,lower,16,1
+736,André R,5,lower,16,1
 737,Bruce Gao,6,lower,16,1
 738,Yanfang Liu,7,lower,16,1
 739,Christie Koehler,8,lower,16,1
@@ -758,7 +758,7 @@ RowID,name,number,panel,row,side
 757,Nagasahas DS,7,lower,18,1
 758,Pascal Chevrel,8,lower,18,1
 759,Brandon Sterne,9,lower,18,1
-760,LuÌs Miguel,10,lower,18,1
+760,Luís Miguel,10,lower,18,1
 761,JR Conlin,1,lower,19,1
 762,Marcelo Araldi,2,lower,19,1
 763,Sudharshan Srinivasan,3,lower,19,1
@@ -794,7 +794,7 @@ RowID,name,number,panel,row,side
 793,Melissa Shapiro,7,lower,22,1
 794,Tim Riley,8,lower,22,1
 795,Wong WeiZhen,9,lower,22,1
-796,Thierry RÈgagnon,10,lower,22,1
+796,Thierry Régagnon,10,lower,22,1
 797,Vishal Ajay Chavan,1,lower,23,1
 798,David Karlton,2,lower,23,1
 799,Tanner Filip,3,lower,23,1
@@ -857,7 +857,7 @@ RowID,name,number,panel,row,side
 856,Kai Liu,4,lower,29,1
 857,Scott MacGregor,5,lower,29,1
 858,Josh Mize,6,lower,29,1
-859,Ivan Jeli?,7,lower,29,1
+859,Ivan Jelić,7,lower,29,1
 860,Martin Honnen,8,lower,29,1
 861,Caitlin Looney,9,lower,29,1
 862,Amitakhya Phukan,10,lower,29,1
@@ -876,10 +876,10 @@ RowID,name,number,panel,row,side
 875,Henrik Gemal,3,lower,31,1
 876,Sean Echevarria,4,lower,31,1
 877,Sihem Bassa,5,lower,31,1
-878,Jorge Antonio DÌaz Lara,6,lower,31,1
+878,Jorge Antonio Díaz Lara,6,lower,31,1
 879,Richard Marti,7,lower,31,1
 880,Morvana Bonin,8,lower,31,1
-881,Ronny VÂrdal,9,lower,31,1
+881,Ronny Vårdal,9,lower,31,1
 882,Hernan Rodriguez Colmeiro,1,lower,32,1
 883,Piniel Romulia Hasibuan,2,lower,32,1
 884,Jessica Jong,3,lower,32,1
@@ -894,7 +894,7 @@ RowID,name,number,panel,row,side
 893,Rok Samsa,3,lower,33,1
 894,Eusebio Barrun Jr,4,lower,33,1
 895,Zhou Huiling,5,lower,33,1
-896,Marquinos ¡lvarez,6,lower,33,1
+896,Marquinos Álvarez,6,lower,33,1
 897,Catalin Rotaru,7,lower,33,1
 898,Abir Hassan,8,lower,33,1
 899,Christiane Ruetten,9,lower,33,1
@@ -906,10 +906,10 @@ RowID,name,number,panel,row,side
 905,Erin Little,5,lower,34,1
 906,Avik Pal,6,lower,34,1
 907,Hamzah Omar Hammad,7,lower,34,1
-908,Foudil BrÈtel,8,lower,34,1
+908,Foudil Brétel,8,lower,34,1
 909,Apoorv Mathur,9,lower,34,1
 910,William Quiviger,1,lower,35,1
-911,Jes˙s PÈrez,2,lower,35,1
+911,Jesús Pérez,2,lower,35,1
 912,Bob Clary,3,lower,35,1
 913,Elisandro Cristmann Nabinger,4,lower,35,1
 914,Yaron Tausky,5,lower,35,1
@@ -923,7 +923,7 @@ RowID,name,number,panel,row,side
 922,Felix Fung,6,lower,36,1
 923,Sasa Gvozdenovic,7,lower,36,1
 924,Vuyisile Ndlovu,8,lower,36,1
-925,Sebasti·n MagrÌ,9,lower,36,1
+925,Sebastián Magrí,9,lower,36,1
 926,Ashkary Rahman,1,lower,37,1
 927,Aaron Druck,2,lower,37,1
 928,Lisa Chiang,3,lower,37,1
@@ -955,7 +955,7 @@ RowID,name,number,panel,row,side
 954,Frank van der Linden,1,lower,40,1
 955,Janet Swisher,2,lower,40,1
 956,Tin Aung Lin,3,lower,40,1
-957,Vebj¯rn Sture,4,lower,40,1
+957,Vebjørn Sture,4,lower,40,1
 958,Faisal Azad,5,lower,40,1
 959,Ashishi Gupta,6,lower,40,1
 960,George Fiotakis,7,lower,40,1
@@ -988,7 +988,7 @@ RowID,name,number,panel,row,side
 987,Henri Sivonen,8,lower,43,1
 988,Gordon P Hemsley,9,lower,43,1
 989,Nimit Vikrama,1,lower,44,1
-990,Nguy?n Xu‚n Minh,2,lower,44,1
+990,Nguyễn Xuân Minh,2,lower,44,1
 991,Kalle Persson,3,lower,44,1
 992,Mohammad Rasel Khan,4,lower,44,1
 993,Rohana Dasanayaka,5,lower,44,1
@@ -997,7 +997,7 @@ RowID,name,number,panel,row,side
 996,Chris AtLee,8,lower,44,1
 997,Wesley Kocher,9,lower,44,1
 998,Monica Chew,1,lower,45,1
-999,Fernando GarcÌa GÛmez,2,lower,45,1
+999,Fernando García Gómez,2,lower,45,1
 1000,Petras Slekys,3,lower,45,1
 1001,Laura Trippi,4,lower,45,1
 1002,Farhana Ryhan Kabir,5,lower,45,1
@@ -1018,32 +1018,32 @@ RowID,name,number,panel,row,side
 1017,Bill Walker,3,lower,47,1
 1018,Felipe Sanches,4,lower,47,1
 1019,Hilary Ho Jia Hao,5,lower,47,1
-1020,Arda √áaƒülayaner,6,lower,47,1
+1020,Arda Ã‡aÄŸlayaner,6,lower,47,1
 1021,Tomasz Dominikowski,7,lower,47,1
 1022,Shamsuzzaman Sadi,8,lower,47,1
 1023,Chris Jung,1,lower,48,1
 1024,Michael Bailly,2,lower,48,1
-1025,Ante Karamati?,3,lower,48,1
+1025,Ante Karamatić,3,lower,48,1
 1026,Mathias Ertl,4,lower,48,1
 1027,Akshay Katyal,5,lower,48,1
 1028,Ahmed Nefzaoui,6,lower,48,1
 1029,Vineeth Kashyap,7,lower,48,1
-1030,Sebasti·n Enrique Becerra Cancino,8,lower,48,1
+1030,Sebastián Enrique Becerra Cancino,8,lower,48,1
 1031,Ian Bicking,9,lower,48,1
 1032,Goran Kohek,1,lower,49,1
 1033,Adrien Leygues,2,lower,49,1
 1034,Hung Nguyen Vu,3,lower,49,1
 1035,Jacek Caban,4,lower,49,1
 1036,Cesar Oliveira,5,lower,49,1
-1037,HÂvard Mork,6,lower,49,1
+1037,Håvard Mork,6,lower,49,1
 1038,Raphael Catolino,7,lower,49,1
 1039,Heroid Shehu,8,lower,49,1
 1040,Edward J Burns,9,lower,49,1
 1041,Chuck Boatwright,1,lower,50,1
 1042,Dan Born,2,lower,50,1
 1043,Alessio Olivieri,3,lower,50,1
-1044,Bart?omiej Sieczka,4,lower,50,1
-1045,Micha? Frontczak,5,lower,50,1
+1044,Bartłomiej Sieczka,4,lower,50,1
+1045,Michał Frontczak,5,lower,50,1
 1046,Geoffrey MacDougall,6,lower,50,1
 1047,Enrique Guadalupe Rodriguez Ramirez,7,lower,50,1
 1048,Jemmy Novy,1,lower,51,1
@@ -1134,7 +1134,7 @@ RowID,name,number,panel,row,side
 1133,Mo DeJong,3,lower,60,1
 1134,Thalia Papoutsaki,4,lower,60,1
 1135,Denelle Dixon-Thayer,5,lower,60,1
-1136,Ricardo do Ros·rio MaÁ„s,6,lower,60,1
+1136,Ricardo do Rosário Maçãs,6,lower,60,1
 1137,Karen Esterly,7,lower,60,1
 1138,Michal Zalewski,8,lower,60,1
 1139,Richard Li,9,lower,60,1
@@ -1160,7 +1160,7 @@ RowID,name,number,panel,row,side
 1159,Jared Hirsch,1,upper,1,2
 1160,Rui You,2,upper,1,2
 1161,Patrick Beard,3,upper,1,2
-1162,Hubert FiguiËre,4,upper,1,2
+1162,Hubert Figuière,4,upper,1,2
 1163,Davor Spasovski,5,upper,1,2
 1164,Travis Choma,6,upper,1,2
 1165,Jack Moffitt,7,upper,1,2
@@ -1214,7 +1214,7 @@ RowID,name,number,panel,row,side
 1213,Alexandra Moss,9,upper,6,2
 1214,Bas Schouten,10,upper,6,2
 1215,Hadley Beeman,1,upper,7,2
-1216,Ond?ej Brablc,2,upper,7,2
+1216,Ondřej Brablc,2,upper,7,2
 1217,Chris Torek,3,upper,7,2
 1218,Martijn Pieters,4,upper,7,2
 1219,Barry Chen,5,upper,7,2
@@ -1235,7 +1235,7 @@ RowID,name,number,panel,row,side
 1234,Dave Hylands,2,upper,9,2
 1235,Tracy Walker,3,upper,9,2
 1236,Rob Huzzey,4,upper,9,2
-1237,FrÈdÈric Wang,5,upper,9,2
+1237,Frédéric Wang,5,upper,9,2
 1238,Pierros Papadeas,6,upper,9,2
 1239,Dan Weinstein,7,upper,9,2
 1240,David Scravaglieri,8,upper,9,2
@@ -1246,7 +1246,7 @@ RowID,name,number,panel,row,side
 1245,Georgia Wang,4,upper,10,2
 1246,Mike Kelly,5,upper,10,2
 1247,Julien Rivaud,6,upper,10,2
-1248,Salvador de la Puente Gonz·lez,7,upper,10,2
+1248,Salvador de la Puente González,7,upper,10,2
 1249,Mary A Biondi,8,upper,10,2
 1250,Cary Bran,9,upper,10,2
 1251,Lisa Repka,1,upper,11,2
@@ -1334,7 +1334,7 @@ RowID,name,number,panel,row,side
 1333,Marco S Hyman,5,upper,19,2
 1334,Sabrina Gabl,6,upper,19,2
 1335,Sankha Narayan Guria,7,upper,19,2
-1336,FrÈdÈric Bourgeon,8,upper,19,2
+1336,Frédéric Bourgeon,8,upper,19,2
 1337,Mike Kristoffersen,1,upper,20,2
 1338,Mohab Safwat,2,upper,20,2
 1339,Tony Young,3,upper,20,2
@@ -1353,7 +1353,7 @@ RowID,name,number,panel,row,side
 1352,Anjan Hatuwal,7,upper,21,2
 1353,Eric Burley,8,upper,21,2
 1354,Chris Beard,9,upper,21,2
-1355,Pablo C˙bico,10,upper,21,2
+1355,Pablo Cúbico,10,upper,21,2
 1356,Monique Johnson,1,upper,22,2
 1357,Liu Xing,2,upper,22,2
 1358,Ishak Herock,3,upper,22,2
@@ -1373,7 +1373,7 @@ RowID,name,number,panel,row,side
 1372,Jeff Garzik,6,upper,23,2
 1373,Jeffrey Jones,7,upper,23,2
 1374,Rajesh Ranjan,8,upper,23,2
-1375,K·lm·n KÈmÈnczy,9,upper,23,2
+1375,Kálmán Kéménczy,9,upper,23,2
 1376,Fabi Rodr,1,upper,24,2
 1377,Gregory Koberger,2,upper,24,2
 1378,Yousheng Li,3,upper,24,2
@@ -1381,7 +1381,7 @@ RowID,name,number,panel,row,side
 1380,Pablo Lillia,5,upper,24,2
 1381,Tomasz Lipski,6,upper,24,2
 1382,Jeff Balogh,7,upper,24,2
-1383,RamÛn Retamar,8,upper,24,2
+1383,Ramón Retamar,8,upper,24,2
 1384,Rakesh Roshan,9,upper,24,2
 1385,Ricardo Panaggio,10,upper,24,2
 1386,Andreas Kleinert,1,upper,25,2
@@ -1391,7 +1391,7 @@ RowID,name,number,panel,row,side
 1390,Rishabh Narayan,5,upper,25,2
 1391,Damian Ewens,6,upper,25,2
 1392,Gustavo Guedez,7,upper,25,2
-1393,Antti N‰yh‰,8,upper,25,2
+1393,Antti Näyhä,8,upper,25,2
 1394,Germaine Brown,9,upper,25,2
 1395,Roby Sherman,1,upper,26,2
 1396,Jan Kroken,2,upper,26,2
@@ -1482,7 +1482,7 @@ RowID,name,number,panel,row,side
 1481,Morten Liljegren,6,upper,35,2
 1482,Mary Anna Sterling,7,upper,35,2
 1483,Dustin J Mitchell,8,upper,35,2
-1484,NiccolÚ Gallarati,9,upper,35,2
+1484,Niccolò Gallarati,9,upper,35,2
 1485,Ademas Pramuatmaja,1,upper,36,2
 1486,Joe Cheng,2,upper,36,2
 1487,Amed Jiyan,3,upper,36,2
@@ -1496,7 +1496,7 @@ RowID,name,number,panel,row,side
 1495,Abraham Rico,2,upper,37,2
 1496,Behnam Esfahbod,3,upper,37,2
 1497,Gavin Lazar Suntop,4,upper,37,2
-1498,GrÈgoire Coustenoble,5,upper,37,2
+1498,Grégoire Coustenoble,5,upper,37,2
 1499,Yuan Wang,6,upper,37,2
 1500,ShaoChung Chen,7,upper,37,2
 1501,Peter Lairo,8,upper,37,2
@@ -1532,7 +1532,7 @@ RowID,name,number,panel,row,side
 1531,Ivan Enderlin,9,upper,40,2
 1532,allstars.chh,10,upper,40,2
 1533,Gerard Juyn,1,upper,41,2
-1534,Magnus AndrÈ Damli,2,upper,41,2
+1534,Magnus André Damli,2,upper,41,2
 1535,Tony Wasserman,3,upper,41,2
 1536,Dan Gohman,4,upper,41,2
 1537,Gemma Petrie,5,upper,41,2
@@ -1554,7 +1554,7 @@ RowID,name,number,panel,row,side
 1553,Aakansha Maithil,3,upper,43,2
 1554,Matthieu Maler,4,upper,43,2
 1555,Christian Knappke,5,upper,43,2
-1556,Amna Tuzovi?,6,upper,43,2
+1556,Amna Tuzović,6,upper,43,2
 1557,Jennifer Hanrath-Balaco,7,upper,43,2
 1558,Harsha Chintalapani,8,upper,43,2
 1559,Kristin Jeanette Williams,1,upper,44,2
@@ -1577,7 +1577,7 @@ RowID,name,number,panel,row,side
 1576,Ed Morley,9,upper,45,2
 1577,Thomas Lendacky,1,upper,46,2
 1578,Girish Sharma,2,upper,46,2
-1579,Daniel RodrÌguez Herrera,3,upper,46,2
+1579,Daniel Rodríguez Herrera,3,upper,46,2
 1580,Cristian Boldan,4,upper,46,2
 1581,Adnane Belmadiaf,5,upper,46,2
 1582,Ezgi Uruk,6,upper,46,2
@@ -1608,7 +1608,7 @@ RowID,name,number,panel,row,side
 1607,Philipp von Weitershausen,3,upper,49,2
 1608,Muhammad Hafiz Mohd Hidzir,4,upper,49,2
 1609,Robert Brand,5,upper,49,2
-1610,Pavel Cvr?ek,6,upper,49,2
+1610,Pavel Cvrček,6,upper,49,2
 1611,Otilia Anica,7,upper,49,2
 1612,Brad Lassey,8,upper,49,2
 1613,Albert Juh,9,upper,49,2
@@ -1641,7 +1641,7 @@ RowID,name,number,panel,row,side
 1640,Timur TLemur Timirkhanov,8,upper,52,2
 1641,Niousha Bolandzadeh,1,upper,53,2
 1642,Svetlana Tkachenko,2,upper,53,2
-1643,Kenan Derviöevi?,3,upper,53,2
+1643,Kenan Dervišević,3,upper,53,2
 1644,Clara Carle,4,upper,53,2
 1645,Jennie M Strom,5,upper,53,2
 1646,Mario Garcia,6,upper,53,2
@@ -1661,7 +1661,7 @@ RowID,name,number,panel,row,side
 1660,James Bonacci,2,upper,55,2
 1661,Takeshi Ichimaru,3,upper,55,2
 1662,Sazzad Hossain,4,upper,55,2
-1663,BenoÓt Leseul,5,upper,55,2
+1663,Benoît Leseul,5,upper,55,2
 1664,Georg Portenkirchner,6,upper,55,2
 1665,Reinhold Penner,7,upper,55,2
 1666,Tim Wong,8,upper,55,2
@@ -1675,7 +1675,7 @@ RowID,name,number,panel,row,side
 1674,Erik Bruchez,7,upper,56,2
 1675,Ezgi Uruk,8,upper,56,2
 1676,Jeremy Lea,9,upper,56,2
-1677,BÈria Lima Ndeye Marie Antoinette Borges Pereira,1,upper,57,2
+1677,Béria Lima Ndeye Marie Antoinette Borges Pereira,1,upper,57,2
 1678,Chris Cooper,2,upper,57,2
 1679,Nicholas Cameron,3,upper,57,2
 1680,Tobias Adamson,4,upper,57,2
@@ -1686,7 +1686,7 @@ RowID,name,number,panel,row,side
 1685,Jeremy M Dolan,3,upper,58,2
 1686,Troy Chevalier,4,upper,58,2
 1687,Jon Hicks,5,upper,58,2
-1688,Aidas éandaris,6,upper,58,2
+1688,Aidas Žandaris,6,upper,58,2
 1689,Akexandria Aranoff,7,upper,58,2
 1690,Owen Coutts,8,upper,58,2
 1691,Ross Bruniges,9,upper,58,2
@@ -1709,11 +1709,11 @@ RowID,name,number,panel,row,side
 1708,Nick Pellegrino,8,upper,60,2
 1709,Wesley Dawson,9,upper,60,2
 1710,Abin Abraham Anchery,1,upper,61,2
-1711,Mihai CÓrl?naru,2,upper,61,2
+1711,Mihai Cîrlănaru,2,upper,61,2
 1712,Hamid Keshmiri,3,upper,61,2
 1713,Michael Moy,4,upper,61,2
 1714,Jayme Ayres,5,upper,61,2
-1715,Jean-FranÁois Ducarroz,6,upper,61,2
+1715,Jean-François Ducarroz,6,upper,61,2
 1716,Werner Fleck,7,upper,61,2
 1717,Simon Montagu,8,upper,61,2
 1718,Patrick Wang,1,upper,62,2
@@ -1726,7 +1726,7 @@ RowID,name,number,panel,row,side
 1725,Leonardo Franchi,8,upper,62,2
 1726,Debbie Cohen,9,upper,62,2
 1727,Steffen Imhof,10,upper,62,2
-1728,JosÈ Ivanildo de Andrade J˙nior,1,upper,63,2
+1728,José Ivanildo de Andrade Júnior,1,upper,63,2
 1729,Richard Alam,2,upper,63,2
 1730,Jyra Bulan,3,upper,63,2
 1731,Poying Chen,4,upper,63,2
@@ -1747,17 +1747,17 @@ RowID,name,number,panel,row,side
 1746,Curtis Koenig,2,upper,65,2
 1747,Noriatsu Kudo,3,upper,65,2
 1748,Scott Johnson,4,upper,65,2
-1749,Saöa Jakovljevi?,5,upper,65,2
+1749,Saša Jakovljević,5,upper,65,2
 1750,Kaustav Das Modak,6,upper,65,2
 1751,Mash Kao,7,upper,65,2
-1752,Panu Petteri Hˆglund,8,upper,65,2
+1752,Panu Petteri Höglund,8,upper,65,2
 1753,Alex Lakatos,9,upper,65,2
 1754,Mason Edwards,1,lower,1,2
 1755,Karl Tomlinson,2,lower,1,2
 1756,Ashickur Rahman,3,lower,1,2
 1757,Jungshik Shin,4,lower,1,2
 1758,Sean Murphy,5,lower,1,2
-1759,Martin JonÈ,6,lower,1,2
+1759,Martin Joné,6,lower,1,2
 1760,Alexandre BM,7,lower,1,2
 1761,Channy Yun,8,lower,1,2
 1762,Aza Raskin,9,lower,1,2
@@ -1790,7 +1790,7 @@ RowID,name,number,panel,row,side
 1789,Nick Nguyen,7,lower,4,2
 1790,Arshad Tayyeb,8,lower,4,2
 1791,Fred Dixon,9,lower,4,2
-1792,Iarla Mac Aodha BhuÌ,1,lower,5,2
+1792,Iarla Mac Aodha Bhuí,1,lower,5,2
 1793,Aleksandr Motsjonov,2,lower,5,2
 1794,Oprea Victor Andrei,3,lower,5,2
 1795,Steve England,4,lower,5,2
@@ -1805,16 +1805,16 @@ RowID,name,number,panel,row,side
 1804,Ricky Rosario,5,lower,6,2
 1805,Richard Vidler,6,lower,6,2
 1806,Marcus Cavanaugh,7,lower,6,2
-1807,SÈbastien Barbieri,8,lower,6,2
+1807,Sébastien Barbieri,8,lower,6,2
 1808,K Lars Lohn,9,lower,6,2
 1809,Hani Suleiman,1,lower,7,2
-1810,P?teris Kriöj?nis,2,lower,7,2
+1810,Pēteris Krišjānis,2,lower,7,2
 1811,Mike de Boer,3,lower,7,2
 1812,Ton Kensen,4,lower,7,2
 1813,Joaquin Blas,5,lower,7,2
-1814,Kerim Kalamuji?,6,lower,7,2
+1814,Kerim Kalamujić,6,lower,7,2
 1815,Owen Taylor,7,lower,7,2
-1816,Tr?n Nguy?n S?n,8,lower,7,2
+1816,Trần Nguyễn Sơn,8,lower,7,2
 1817,Youhei Tooyama,9,lower,7,2
 1818,Olli Pettay,10,lower,7,2
 1819,Tomomi Kato,1,lower,8,2
@@ -1869,7 +1869,7 @@ RowID,name,number,panel,row,side
 1868,Ashish Dubey,8,lower,13,2
 1869,Mary Dalton,9,lower,13,2
 1870,Erick Dransch,10,lower,13,2
-1871,IÒigo Varela,1,lower,14,2
+1871,Iñigo Varela,1,lower,14,2
 1872,Sam Mott,2,lower,14,2
 1873,R Kent James,3,lower,14,2
 1874,Deryan Everestha Maured,4,lower,14,2
@@ -1914,7 +1914,7 @@ RowID,name,number,panel,row,side
 1913,Michael Comella,5,lower,18,2
 1914,Mark Goodwin,6,lower,18,2
 1915,Bozhan Boiadzhiev,7,lower,18,2
-1916,Marc-AurËle Darche,8,lower,18,2
+1916,Marc-Aurèle Darche,8,lower,18,2
 1917,Steffen Wilberg,1,lower,19,2
 1918,Tasha Carl,2,lower,19,2
 1919,Samphan Raruenrom,3,lower,19,2
@@ -1930,7 +1930,7 @@ RowID,name,number,panel,row,side
 1929,Alix Franquet,5,lower,20,2
 1930,Komal Gandhi,6,lower,20,2
 1931,HuiKai Chang,7,lower,20,2
-1932,Rimas Misevi?ius,8,lower,20,2
+1932,Rimas Misevičius,8,lower,20,2
 1933,Raul-Nicolae Malea,9,lower,20,2
 1934,Ryan Jayson Ermita,1,lower,21,2
 1935,Ohzeki Tetsuharu,2,lower,21,2
@@ -1945,7 +1945,7 @@ RowID,name,number,panel,row,side
 1944,David Hylands,2,lower,22,2
 1945,Otto de Voogd,3,lower,22,2
 1946,Clarissa Sorenson,4,lower,22,2
-1947,Hiram E PÈrez,5,lower,22,2
+1947,Hiram E Pérez,5,lower,22,2
 1948,Stephen John Murphy,6,lower,22,2
 1949,Mathieu Laurent,7,lower,22,2
 1950,Michel Gutierrez,8,lower,22,2
@@ -1994,14 +1994,14 @@ RowID,name,number,panel,row,side
 1993,Jen Fong-Adwent,1,lower,27,2
 1994,Tomislav Jovanovic,2,lower,27,2
 1995,Edwin Flores,3,lower,27,2
-1996,Pascual Str¯msnÊs,4,lower,27,2
+1996,Pascual Strømsnæs,4,lower,27,2
 1997,Paul Kanz,5,lower,27,2
 1998,Jon Lambert,6,lower,27,2
 1999,Rebecca Berto,7,lower,27,2
 2000,Grigorios Petsos,8,lower,27,2
 2001,Vanessa Hurst,9,lower,27,2
 2002,Egota Motohiro,1,lower,28,2
-2003,Joan MontanÈ,2,lower,28,2
+2003,Joan Montané,2,lower,28,2
 2004,Giovanni Keppelen,3,lower,28,2
 2005,Dirkjan Ochtman,4,lower,28,2
 2006,Larry Prall,5,lower,28,2
@@ -2011,7 +2011,7 @@ RowID,name,number,panel,row,side
 2010,Roberto Vargas G,9,lower,28,2
 2011,Behdad Esfahbod,1,lower,29,2
 2012,Meghraj Suthar,2,lower,29,2
-2013,Andr·s TÌm·r,3,lower,29,2
+2013,András Tímár,3,lower,29,2
 2014,Masaki Katakai,4,lower,29,2
 2015,Timothy Terriberry,5,lower,29,2
 2016,Peter Radcliffe,6,lower,29,2
@@ -2077,7 +2077,7 @@ RowID,name,number,panel,row,side
 2076,Gordon Sheridan,2,lower,36,2
 2077,Claudius Gayle,3,lower,36,2
 2078,Avi Halachmi,4,lower,36,2
-2079,Nino Vraneöi?,5,lower,36,2
+2079,Nino Vranešič,5,lower,36,2
 2080,Vinh Hua,6,lower,36,2
 2081,Adem Alp Yildiz,7,lower,36,2
 2082,Lenno Azevedo,8,lower,36,2
@@ -2089,7 +2089,7 @@ RowID,name,number,panel,row,side
 2088,Juraj Betak,5,lower,37,2
 2089,Mohamed El Sharnoby,6,lower,37,2
 2090,Mauro Botelho,7,lower,37,2
-2091,Fernando JimÈnez Moreno,8,lower,37,2
+2091,Fernando Jiménez Moreno,8,lower,37,2
 2092,Kaori Negoro,9,lower,37,2
 2093,Trevor Norris,1,lower,38,2
 2094,Matthew Fuller,2,lower,38,2
@@ -2113,7 +2113,7 @@ RowID,name,number,panel,row,side
 2112,Sipho Sibiya,4,lower,40,2
 2113,Ethan Hugg,5,lower,40,2
 2114,Cedric Vivier,6,lower,40,2
-2115,Jo„o Miguel Neves,7,lower,40,2
+2115,João Miguel Neves,7,lower,40,2
 2116,Michael Bebenita,8,lower,40,2
 2117,Karsten D¸sterloh,9,lower,40,2
 2118,Carla Casilli,1,lower,41,2
@@ -2123,2415 +2123,10 @@ RowID,name,number,panel,row,side
 2122,Mahir Chowdhury,5,lower,41,2
 2123,Sukhdev Shah,6,lower,41,2
 2124,Jonathan Griffin,7,lower,41,2
-2125,Sta? Ma?olepszy,8,lower,41,2
+2125,Staś Małolepszy,8,lower,41,2
 2126,Emily Chardac,9,lower,41,2
 2127,Hideo Oshima,1,lower,42,2
 2128,Asa Dotzler,2,lower,42,2
 2129,Joyal John Peter,3,lower,42,2
 2130,Jacob Bramley,4,lower,42,2
-2131,S Setiawan,5,lower,42,2
-2132,Sergio Oliveira,6,lower,42,2
-2133,Kim Moir,7,lower,42,2
-2134,James Teh,8,lower,42,2
-2135,Jay Sullivan,9,lower,42,2
-2136,Yuan Chao,10,lower,42,2
-2137,John Luke Zeller,1,lower,43,2
-2138,Maria Carina Roldan,2,lower,43,2
-2139,Marcos Santiago Leal Giraudo,3,lower,43,2
-2140,Donovan Preston,4,lower,43,2
-2141,Ling Wang,5,lower,43,2
-2142,Mehdi Mulani,6,lower,43,2
-2143,Christopher Kline,7,lower,43,2
-2144,Henry Yang,8,lower,43,2
-2145,Malini Minasandram,1,lower,44,2
-2146,Rizqinofa Putra Muliawan,2,lower,44,2
-2147,Jim Blandy,3,lower,44,2
-2148,Orin Chen,4,lower,44,2
-2149,Abdelsalam Safi,5,lower,44,2
-2150,Leslie Hawthorn,6,lower,44,2
-2151,Leonardo Alberto Augusto de Jesus Souza,7,lower,44,2
-2152,Gregory Szorc,1,lower,45,2
-2153,Michael Noe,2,lower,45,2
-2154,Jim Crumley,3,lower,45,2
-2155,Julia Elman,4,lower,45,2
-2156,Reke Wang,5,lower,45,2
-2157,Tom Drummond,6,lower,45,2
-2158,Eric Cooper,7,lower,45,2
-2159,Frank Visser,8,lower,45,2
-2160,Steven Yang,9,lower,45,2
-2161,Elisha Kim,10,lower,45,2
-2162,Maria Birgaoanu,11,lower,45,2
-2163,Francisco Collao,1,lower,46,2
-2164,Xuelian Xiang,2,lower,46,2
-2165,Shentin Lin,3,lower,46,2
-2166,Katarzyna Stawarz,4,lower,46,2
-2167,Jeremy Eramian,5,lower,46,2
-2168,Jesper Kristensen,6,lower,46,2
-2169,Zach Lipton,7,lower,46,2
-2170,Chris McAfee,8,lower,46,2
-2171,Tiago Ferreira,9,lower,46,2
-2172,Marcela Oniga,1,lower,47,2
-2173,Mark C Rosen,2,lower,47,2
-2174,Brendan Eich,3,lower,47,2
-2175,William Lachance,4,lower,47,2
-2176,Akira Mutsuro,5,lower,47,2
-2177,Jukka Jyl‰nki,6,lower,47,2
-2178,Ali Ebrahim,7,lower,47,2
-2179,Victoria Pater,8,lower,47,2
-2180,Jeff Galyan,9,lower,47,2
-2181,Jayson Fittipaldi,10,lower,47,2
-2182,Marek Wawoczny,1,lower,48,2
-2183,Cory Gackenheimer,2,lower,48,2
-2184,Cori Schauer,3,lower,48,2
-2185,Scott Storey,4,lower,48,2
-2186,Beth Epperson,5,lower,48,2
-2187,Jaros?aw ?miejczak,6,lower,48,2
-2188,Johan Gonzalez,7,lower,48,2
-2189,Jonas Utterstron,8,lower,48,2
-2190,Paul Biggar,9,lower,48,2
-2191,Peter,10,lower,48,2
-2192,Trudelle,1,lower,49,2
-2193,Eric Moore,2,lower,49,2
-2194,Fernando Vargas,3,lower,49,2
-2195,Markos Calderon,4,lower,49,2
-2196,Alessio Gastaldi,5,lower,49,2
-2197,James Paul Willcox,6,lower,49,2
-2198,Luciana Viana,7,lower,49,2
-2199,Eric Wong,8,lower,49,2
-2200,Iurii Klekovkin,9,lower,49,2
-2201,Seif Lotfy,10,lower,49,2
-2202,Remus,11,lower,49,2
-2203,Pop,1,lower,50,2
-2204,Karl Ove Hufthammer,2,lower,50,2
-2205,suthaseng,3,lower,50,2
-2206,Michael Dunn,4,lower,50,2
-2207,Andreas Wagner,5,lower,50,2
-2208,Lukas Blakk,6,lower,50,2
-2209,Christopher De Cairos,7,lower,50,2
-2210,Max Horn,8,lower,50,2
-2211,Max Kanat-Alexander,9,lower,50,2
-2212,Ardian,10,lower,50,2
-2213,Haxha,1,lower,51,2
-2214,Tom·ö Taro,2,lower,51,2
-2215,Jignesh Kakadiya,3,lower,51,2
-2216,Kojiro Ozaki,4,lower,51,2
-2217,Jo„o Pedro B Palharini,5,lower,51,2
-2218,Gagan Saksena,6,lower,51,2
-2219,Marie LÈger-St-Jean,7,lower,51,2
-2220,Edwin Wong,8,lower,51,2
-2221,Logan Rosen,9,lower,51,2
-2222,Todd Kennedy,1,lower,52,2
-2223,Farrah Kimovec,2,lower,52,2
-2224,Cody Brocious,3,lower,52,2
-2225,Mathew Caldwell,4,lower,52,2
-2226,Arnanda Wicaksono,5,lower,52,2
-2227,Walter Chen,6,lower,52,2
-2228,Howard Chu,7,lower,52,2
-2229,Hoa Lee,8,lower,52,2
-2230,Arun Balachandran Ganesan,9,lower,52,2
-2231,Nedim Zecic,1,lower,53,2
-2232,David Antonio Gonz·lez Blanchard,2,lower,53,2
-2233,Vikash Agrawal,3,lower,53,2
-2234,Francois Marier,4,lower,53,2
-2235,Al MacDonald,5,lower,53,2
-2236,James Ho,6,lower,53,2
-2237,Ben Sternthal,7,lower,53,2
-2238,Joseph Somogyi,8,lower,53,2
-2239,Alexandre Paradis,1,lower,54,2
-2240,Mike McCabe,2,lower,54,2
-2241,Jeremias Bosch,3,lower,54,2
-2242,Sohaib Ikram,4,lower,54,2
-2243,Joao Angelo de Franco,5,lower,54,2
-2244,Tim Fairfield,6,lower,54,2
-2245,Takashi Nobsawa,7,lower,54,2
-2246,Mohammad Aidid Mohd Jaafar,8,lower,54,2
-2247,Greg Scallan,1,lower,55,2
-2248,Cristian Silaghi,2,lower,55,2
-2249,Juan Pablo MartÌnez CortÈs,3,lower,55,2
-2250,Sam Ziegler,4,lower,55,2
-2251,ShinYin Ko,5,lower,55,2
-2252,Alex Selkirk,6,lower,55,2
-2253,Benjamin Bangert Terry Hayes,7,lower,55,2
-2254,Joel Aguilera III,8,lower,55,2
-2255,Lazar Sumar,1,lower,56,2
-2256,Wei-Chen Lai,2,lower,56,2
-2257,Tianhao He,3,lower,56,2
-2258,Tague Griffith,4,lower,56,2
-2259,Tsahi Asher,5,lower,56,2
-2260,Brandon Smith,6,lower,56,2
-2261,Niko Viönji?,7,lower,56,2
-2262,Ricardo de Azevedo Brandao,8,lower,56,2
-2263,Thanos Lefteris,9,lower,56,2
-2264,Phil Machalski,1,lower,57,2
-2265,Martin Creutziger,2,lower,57,2
-2266,Dan Libby,3,lower,57,2
-2267,Irayani Queencyputri,4,lower,57,2
-2268,James Lal,5,lower,57,2
-2269,Brian Smith,6,lower,57,2
-2270,Lucas Hirschegger,7,lower,57,2
-2271,Enpei Chu,8,lower,57,2
-2272,Douglas Stebila,9,lower,57,2
-2273,Bobby Holley,10,lower,57,2
-2274,Craig Cook,1,lower,58,2
-2275,Vahe Khachikyan,2,lower,58,2
-2276,Seth Fowler,3,lower,58,2
-2277,Christopher S Charabaruk,4,lower,58,2
-2278,Mitko Mitev,5,lower,58,2
-2279,Cai Zheng,6,lower,58,2
-2280,Stacey Curtis,7,lower,58,2
-2281,Robert McKay,8,lower,58,2
-2282,Jessica Ledbetter,9,lower,58,2
-2283,Natalie Tan,10,lower,58,2
-2284,Daniel Tarlow,1,lower,59,2
-2285,Sriram Ramasubramanian,2,lower,59,2
-2286,Angela Plohman,3,lower,59,2
-2287,salvador,4,lower,59,2
-2288,Manuel Strehl,5,lower,59,2
-2289,Benoit Jacob,6,lower,59,2
-2290,Jonas Finnemann Jensen,7,lower,59,2
-2291,Danishka Navin,8,lower,59,2
-2292,Valerie Ponell,1,lower,60,2
-2293,Damjan Georgievski,2,lower,60,2
-2294,Yuka Takagi,3,lower,60,2
-2295,Bogomil Shopov Bogo,4,lower,60,2
-2296,Gent ThaÁi,5,lower,60,2
-2297,Vera Horiuchi,6,lower,60,2
-2298,Tim McNerney,7,lower,60,2
-2299,Robert Pezdirc,8,lower,60,2
-2300,Chit Thiri Maung,9,lower,60,2
-2301,Ram Dayal Vaishnav,1,lower,61,2
-2302,Mark Crandon,2,lower,61,2
-2303,Jordan Lund,3,lower,61,2
-2304,Mayumi Matsuno,4,lower,61,2
-2305,Giuliano Masseroni,5,lower,61,2
-2306,Ninoschka Baca,6,lower,61,2
-2307,Hemal Mehtalia,7,lower,61,2
-2308,Alan Chang,8,lower,61,2
-2309,Joe Chen,9,lower,61,2
-2310,Kelvin Munene,1,lower,62,2
-2311,David Fisher,2,lower,62,2
-2312,Pamela Greene,3,lower,62,2
-2313,Georg Fritzsche,4,lower,62,2
-2314,Samuel Chacon,5,lower,62,2
-2315,Les Orchard,6,lower,62,2
-2316,Gia Shervashidze,7,lower,62,2
-2317,Michael duPont,8,lower,62,2
-2318,Bjarne Herland,9,lower,62,2
-2319,Jayakumar,10,lower,62,2
-2320,Sadhasivam,1,upper,1,3
-2321,Ian Gilman,2,upper,1,3
-2322,Stanley Ho,3,upper,1,3
-2323,Antonio Alvarez,4,upper,1,3
-2324,Tom Lane,5,upper,1,3
-2325,Matthew Gertner,6,upper,1,3
-2326,Rob Hudson,7,upper,1,3
-2327,Lucy Atkins,8,upper,1,3
-2328,Damjan Tkalec,9,upper,1,3
-2329,Victor Riley,10,upper,1,3
-2330,Cesar Carruitero,1,upper,2,3
-2331,Jon Mittelhauser,2,upper,2,3
-2332,Mihai Pop,3,upper,2,3
-2333,Samuel Sieb,4,upper,2,3
-2334,Elisabeth Laude,5,upper,2,3
-2335,Rob Wood,6,upper,2,3
-2336,Zobayer Ahmed Khan,7,upper,2,3
-2337,Mike Tigas,8,upper,2,3
-2338,Mark David Crandon,9,upper,2,3
-2339,Paxton Cooper Jr,1,upper,3,3
-2340,Maria Sandberg,2,upper,3,3
-2341,Mouhamadou Moustapha Camara,3,upper,3,3
-2342,Hoa Nguyen,4,upper,3,3
-2343,Marco Casteleijn,5,upper,3,3
-2344,Biraj Karmakar,6,upper,3,3
-2345,Igor Furlan,7,upper,3,3
-2346,Martijn Weisbeek,8,upper,3,3
-2347,Wolfgang Rosenauer,1,upper,4,3
-2348,Jose Sun,2,upper,4,3
-2349,Spyros Markopoulos,3,upper,4,3
-2350,Dominic Kuo,4,upper,4,3
-2351,J Ryan Stinnett,5,upper,4,3
-2352,Dwayne Bailey,6,upper,4,3
-2353,Pierre Chanial,7,upper,4,3
-2354,Thomas Schwecherl,8,upper,4,3
-2355,HÂvar Ingmund Henriksen,1,upper,5,3
-2356,Prasad Yendluri,2,upper,5,3
-2357,Cameron Kaiser,3,upper,5,3
-2358,Justin Fitzhugh,4,upper,5,3
-2359,Andrew Cassin,5,upper,5,3
-2360,Cheng Wang,6,upper,5,3
-2361,Brian Bondy,7,upper,5,3
-2362,Chad Weiner,8,upper,5,3
-2363,Cristian Moldovan,9,upper,5,3
-2364,Serge Charapaev,1,upper,6,3
-2365,Bj¯rn I Svindseth,2,upper,6,3
-2366,Milos Dinic,3,upper,6,3
-2367,Dietrich Ayala,4,upper,6,3
-2368,Marshall Culpepper,5,upper,6,3
-2369,Guilherme GonÁalves,6,upper,6,3
-2370,David Bartlett,7,upper,6,3
-2371,Juan Viveros,8,upper,6,3
-2372,Connor Dickie,9,upper,6,3
-2373,Jan Bambas,1,upper,7,3
-2374,Grainne Hamilton,2,upper,7,3
-2375,Anne van Kesteren,3,upper,7,3
-2376,Stefan Arentz,4,upper,7,3
-2377,William Reynolds,5,upper,7,3
-2378,suneesh,6,upper,7,3
-2379,SwooWoong Seol,7,upper,7,3
-2380,Miguel Angel Useche Castro,8,upper,7,3
-2381,Sara Todaro,1,upper,8,3
-2382,Michele Rodaro,2,upper,8,3
-2383,Davide Ficano,3,upper,8,3
-2384,John Sun,4,upper,8,3
-2385,C Fung,5,upper,8,3
-2386,Kym Lee,6,upper,8,3
-2387,Galih Herdianto,7,upper,8,3
-2388,Alexey Chernyak,8,upper,8,3
-2389,Karthik Viswanathan,9,upper,8,3
-2390,Dan Mosedale,10,upper,8,3
-2391,Josh Matthews,1,upper,9,3
-2392,Iacopo Benesperi,2,upper,9,3
-2393,Fachrizal Rifandi Zainuddin,3,upper,9,3
-2394,Brian Hackett,4,upper,9,3
-2395,Hema Koka,5,upper,9,3
-2396,rctgamer3,6,upper,9,3
-2397,Gary Kovacs,7,upper,9,3
-2398,Jakob Miland,8,upper,9,3
-2399,Hsin-Yi Tsai,9,upper,9,3
-2400,Adrian Tamas,1,upper,10,3
-2401,Rehan Dalal,2,upper,10,3
-2402,Esor Huang,3,upper,10,3
-2403,Julian Pellico,4,upper,10,3
-2404,Carlos Araya,5,upper,10,3
-2405,Julen Ruiz Aizpuru,6,upper,10,3
-2406,Alex Podgorny,7,upper,10,3
-2407,Gabor Kelemen,8,upper,10,3
-2408,Oksana Ignateva,9,upper,10,3
-2409,Praveen Sridhar,1,upper,11,3
-2410,Yao Wei,2,upper,11,3
-2411,Andrew Smith,3,upper,11,3
-2412,Teune van Steeg,4,upper,11,3
-2413,Maicon R C Ferreira,5,upper,11,3
-2414,Miguel de Icaza,6,upper,11,3
-2415,Piotr Dr?g,7,upper,11,3
-2416,RÈmy Hubscher,8,upper,11,3
-2417,Christian Sonne,9,upper,11,3
-2418,Roopak Venkatakrishnan,1,upper,12,3
-2419,Justin A Kolodziej,2,upper,12,3
-2420,Anthony Davis,3,upper,12,3
-2421,Erin Knight,4,upper,12,3
-2422,Philipp Kewisch,5,upper,12,3
-2423,Omkar Walimbe,6,upper,12,3
-2424,Henri Jalonen,7,upper,12,3
-2425,Christian Kenneth Mariano,8,upper,12,3
-2426,Panagiotis Tsalaportas,1,upper,13,3
-2427,Juan Eladio Sanchez Rosas,2,upper,13,3
-2428,Rocio Soledad Meza Arce,3,upper,13,3
-2429,Ethan Tseng,4,upper,13,3
-2430,Fabricio Zuardi,5,upper,13,3
-2431,Atsushi Sakai,6,upper,13,3
-2432,Dauren Sarsenov,7,upper,13,3
-2433,Pam Nunn,8,upper,13,3
-2434,Louis-RÈmi BabÈ,1,upper,14,3
-2435,Melek Jebnoun,2,upper,14,3
-2436,Zeltzin RodrÌguez,3,upper,14,3
-2437,Adam Christian,4,upper,14,3
-2438,Sanders Fabares,5,upper,14,3
-2439,Adi Jal,6,upper,14,3
-2440,Mauricio Navarro Miranda,7,upper,14,3
-2441,Miguel David Q,8,upper,14,3
-2442,Fahim Zahur,9,upper,14,3
-2443,Isan Selimovic,1,upper,15,3
-2444,William Kahn-Greene,2,upper,15,3
-2445,Fenella Gor,3,upper,15,3
-2446,Tooru Fujisawa,4,upper,15,3
-2447,Arron Schaar,5,upper,15,3
-2448,Garrett Blythe,6,upper,15,3
-2449,Dennis Schubert,7,upper,15,3
-2450,Derrick Frimpong Basoah,8,upper,15,3
-2451,Peter Koles·r,9,upper,15,3
-2452,Timothy Disney,1,upper,16,3
-2453,Ursula Clarke,2,upper,16,3
-2454,Ayman Hourieh,3,upper,16,3
-2455,Marco DeMiroz,4,upper,16,3
-2456,Brian Ostrom,5,upper,16,3
-2457,Tripad Mishra,6,upper,16,3
-2458,Bob Relyea,7,upper,16,3
-2459,Luke Crouch,8,upper,16,3
-2460,Shahmir Khan,9,upper,16,3
-2461,Zaw Oo,10,upper,16,3
-2462,Kevin Zhou,1,upper,17,3
-2463,Joseph Gregorio,2,upper,17,3
-2464,Dhiemazt Dendang,3,upper,17,3
-2465,Xie Yanbo,4,upper,17,3
-2466,Reza Mohammadi,5,upper,17,3
-2467,Jane Finette,6,upper,17,3
-2468,Sidney Stamm,7,upper,17,3
-2469,David Meeker,8,upper,17,3
-2470,Michael Vines,9,upper,17,3
-2471,Mike Shaver,10,upper,17,3
-2472,Kyle Yuan,1,upper,18,3
-2473,Justin T Arthur,2,upper,18,3
-2474,Andrew Taylor,3,upper,18,3
-2475,Sam Allen,4,upper,18,3
-2476,Robert E Boughner,5,upper,18,3
-2477,Aaron Leventhal,6,upper,18,3
-2478,Bill Panagouleas,7,upper,18,3
-2479,Stephen W Wanjau,8,upper,18,3
-2480,Nikhil Bhaskaran,9,upper,18,3
-2481,Gene Wood,1,upper,19,3
-2482,Kevin Gadd,2,upper,19,3
-2483,Abinash Bishoyi,3,upper,19,3
-2484,Peter Annema,4,upper,19,3
-2485,Colby Russell,5,upper,19,3
-2486,Nickolay Ponomarev,6,upper,19,3
-2487,Daniel Brooks,7,upper,19,3
-2488,Emilio Justiniano Carcamo Troconis,8,upper,19,3
-2489,Rod Spears,1,upper,20,3
-2490,Clint Talbert,2,upper,20,3
-2491,Josh Aas,3,upper,20,3
-2492,Ricardo Meza,4,upper,20,3
-2493,Dan Mills,5,upper,20,3
-2494,Manoj Kumar Giri,6,upper,20,3
-2495,Elizabeth Compton,7,upper,20,3
-2496,Milkway Fang,8,upper,20,3
-2497,Sumantro Mukherjee,9,upper,20,3
-2498,Eric Chu,10,upper,20,3
-2499,Jeff Grossman,1,upper,21,3
-2500,Jian Jin,2,upper,21,3
-2501,Teruko Kobayashi,3,upper,21,3
-2502,Axel Grude,4,upper,21,3
-2503,Phong Tran,5,upper,21,3
-2504,Bob Moss,6,upper,21,3
-2505,William David Selman,7,upper,21,3
-2506,CÈsar AndrÈs Cantero,8,upper,21,3
-2507,Tim Taubert,9,upper,21,3
-2508,John Bandhauer,10,upper,21,3
-2509,Raymond Forbes,1,upper,22,3
-2510,Athena M Katsaros,2,upper,22,3
-2511,Tomoya Asai,3,upper,22,3
-2512,Aaron Hill,4,upper,22,3
-2513,Casey Ransom,5,upper,22,3
-2514,Steven Johnson,6,upper,22,3
-2515,Varun Kaushik,7,upper,22,3
-2516,Ankit Goel,8,upper,22,3
-2517,Luigui Delyer,9,upper,22,3
-2518,Karl Dubost,10,upper,22,3
-2519,Bruno Duarte,1,upper,23,3
-2520,Jens M¸ller,2,upper,23,3
-2521,Masanori Kaneko,3,upper,23,3
-2522,J?rat? Auörait?,4,upper,23,3
-2523,Fred Roeber,5,upper,23,3
-2524,Paul Walsh,6,upper,23,3
-2525,Angelboy,7,upper,23,3
-2526,Rainer Cvillink,8,upper,23,3
-2527,Martin Best,9,upper,23,3
-2528,Sokhem Khoem,10,upper,23,3
-2529,Felipe Lerena,1,upper,24,3
-2530,Moses Bermea,2,upper,24,3
-2531,Christopher Pratt,3,upper,24,3
-2532,Marc B‰chinger,4,upper,24,3
-2533,Liang-Bin Hsueh,5,upper,24,3
-2534,Christopher Kritzer,6,upper,24,3
-2535,Jaclyn Fu,7,upper,24,3
-2536,Ahmet Serkan T?ratac?,8,upper,24,3
-2537,Bob Micheletto,9,upper,24,3
-2538,Marco AurÈlio Krause,1,upper,25,3
-2539,Ricardo Varas,2,upper,25,3
-2540,Luigi Lira,3,upper,25,3
-2541,Mike Norton,4,upper,25,3
-2542,Cherlowe Reinard T Ramirez,5,upper,25,3
-2543,Sidharth Nair,6,upper,25,3
-2544,Diego Marcos Segura,7,upper,25,3
-2545,Ryan Freebern,8,upper,25,3
-2546,Andrei Hutusoru,1,upper,26,3
-2547,Koustav Samadder,2,upper,26,3
-2548,Sean Stangl,3,upper,26,3
-2549,David Drinan,4,upper,26,3
-2550,Poyu Chen,5,upper,26,3
-2551,Ty Flanagan,6,upper,26,3
-2552,Benoit Joseph Girard,7,upper,26,3
-2553,Angel Fernando Quiroz Campos,8,upper,26,3
-2554,Henrik Skupin,1,upper,27,3
-2555,Blake Cutler,2,upper,27,3
-2556,Gary Mark Watts,3,upper,27,3
-2557,Dave Waller,4,upper,27,3
-2558,John Paul Paradeza,5,upper,27,3
-2559,Jean Collings,6,upper,27,3
-2560,Trevor Hobson,7,upper,27,3
-2561,Fernando Pereira Silveira,8,upper,27,3
-2562,Aleksey Nogin,9,upper,27,3
-2563,Sean Bolton,1,upper,28,3
-2564,Markus Stange,2,upper,28,3
-2565,Martin Cantieni,3,upper,28,3
-2566,Alejandro S·nchez,4,upper,28,3
-2567,Timothy Guan-tin Chien,5,upper,28,3
-2568,Rakesh Mishra,6,upper,28,3
-2569,Eftekhar Alam,7,upper,28,3
-2570,Ruslan Belkin,8,upper,28,3
-2571,Phoebe Chang,9,upper,28,3
-2572,Andrew Findlay,1,upper,29,3
-2573,Akshay Aurora,2,upper,29,3
-2574,Arthur Jen-Hao Chen,3,upper,29,3
-2575,Katherine Naszradi,4,upper,29,3
-2576,Hatem Zyoud,5,upper,29,3
-2577,Harshana Weerasinghe,6,upper,29,3
-2578,Nate Weaver,7,upper,29,3
-2579,Jesse Ruderman,8,upper,29,3
-2580,Hugues Fournier,1,upper,30,3
-2581,Aniruddha Adhikary,2,upper,30,3
-2582,Ricardo Pontes,3,upper,30,3
-2583,Ciaran Welch,4,upper,30,3
-2584,Ali Juma,5,upper,30,3
-2585,Juergen Keil,6,upper,30,3
-2586,Wim Benes,7,upper,30,3
-2587,Azlin Ramli,8,upper,30,3
-2588,Fauzan Alfi,9,upper,30,3
-2589,Alex Fuser,10,upper,30,3
-2590,Vikri Aulia,11,upper,30,3
-2591,Marco Mucci,1,upper,31,3
-2592,Gloria Meneses,2,upper,31,3
-2593,Mark Larah,3,upper,31,3
-2594,Lou Montulli,4,upper,31,3
-2595,Margaret Schroeder,5,upper,31,3
-2596,Dimas Andhana,6,upper,31,3
-2597,Akhil Arora,7,upper,31,3
-2598,Neal Bedard,8,upper,31,3
-2599,Emily Goligoski,9,upper,31,3
-2600,Peter Jaros,10,upper,31,3
-2601,Matitiahu Allouche,1,upper,32,3
-2602,Bar?? Derin,2,upper,32,3
-2603,Stephen Lau,3,upper,32,3
-2604,Bill Mitchell,4,upper,32,3
-2605,Vasilis Georgitzikis,5,upper,32,3
-2606,Kalman Kemenczy,6,upper,32,3
-2607,Thaks Van Le,7,upper,32,3
-2608,Gion-Andri Cantieni,8,upper,32,3
-2609,Dejan Binder,9,upper,32,3
-2610,Braden McDaniel,1,upper,33,3
-2611,Tomer Cohen,2,upper,33,3
-2612,Schalk Neethling,3,upper,33,3
-2613,Shweta Sinha,4,upper,33,3
-2614,Scott Collins,5,upper,33,3
-2615,Ankit Bahuguna,6,upper,33,3
-2616,David Gerard,7,upper,33,3
-2617,Tara Hernandez,8,upper,33,3
-2618,Tatiana Meshkova,9,upper,33,3
-2619,Inma Barrios,1,upper,34,3
-2620,Tseng-Jen evanxd,2,upper,34,3
-2621,Greg Cox,3,upper,34,3
-2622,Robert Longson,4,upper,34,3
-2623,Fabrice DesrÈ,5,upper,34,3
-2624,Thirunavukarasu Meyarivan,6,upper,34,3
-2625,Michael Nacos,7,upper,34,3
-2626,David Clarke,8,upper,34,3
-2627,Sonny Piers,9,upper,34,3
-2628,David Berz,1,upper,35,3
-2629,John Unruh,2,upper,35,3
-2630,Timothy Mickel,3,upper,35,3
-2631,Brian Birtles,4,upper,35,3
-2632,Aleksandra Uzelac,5,upper,35,3
-2633,Paul Kocher,6,upper,35,3
-2634,Vadim Zaliva,7,upper,35,3
-2635,Kwamena Appiah-Kubi,8,upper,35,3
-2636,John Dee,9,upper,35,3
-2637,Adrian Lungu,10,upper,35,3
-2638,Lyre Calliope,1,upper,36,3
-2639,CÈsar MartÌnez Garita,2,upper,36,3
-2640,Abdoul S CissÈ,3,upper,36,3
-2641,Dumitru Gherman,4,upper,36,3
-2642,Tao Cheng,5,upper,36,3
-2643,Stephen Workman,6,upper,36,3
-2644,Didem Ersoz,7,upper,36,3
-2645,Hsiao-Ting Yu,8,upper,36,3
-2646,Ilya Sherman,9,upper,36,3
-2647,Wichai,10,upper,36,3
-2648,Termwuttipreecha,1,upper,37,3
-2649,Avinash Kumar Dasoundhi,2,upper,37,3
-2650,Nilamdyuti Goswami,3,upper,37,3
-2651,Chaitanya Gsnr,4,upper,37,3
-2652,Robin Foster,5,upper,37,3
-2653,Simford Dong,6,upper,37,3
-2654,Gijs Kruitbosch,7,upper,37,3
-2655,Mark Corum,8,upper,37,3
-2656,Diego,9,upper,37,3
-2657,Casorran,1,upper,38,3
-2658,Yati Sagade,2,upper,38,3
-2659,Jennifer Arguello,3,upper,38,3
-2660,Rich Megginson,4,upper,38,3
-2661,Musa Alfan,5,upper,38,3
-2662,Balazs Juhasz,6,upper,38,3
-2663,Daniel Cater,7,upper,38,3
-2664,Mursalin Kabir,8,upper,38,3
-2665,Chirdeep Chhabra,9,upper,38,3
-2666,Chakard Chalayut,1,upper,39,3
-2667,Benoit Girard,2,upper,39,3
-2668,Anthony Ricaud,3,upper,39,3
-2669,Po-chiang Bob Chao,4,upper,39,3
-2670,Charles J Cliffe,5,upper,39,3
-2671,Ed Lim,6,upper,39,3
-2672,Felix S Klock II,7,upper,39,3
-2673,Tiago Fick,8,upper,39,3
-2674,Alex Polvi,9,upper,39,3
-2675,Masayuki Nakano,10,upper,39,3
-2676,Harish Dhurvasula,1,upper,40,3
-2677,Chiaki Koufugata,2,upper,40,3
-2678,Solaiman Alam,3,upper,40,3
-2679,Md Masud Parveg,4,upper,40,3
-2680,Kamil Jozwiak,5,upper,40,3
-2681,JB Piacentino,6,upper,40,3
-2682,Mark Capella,7,upper,40,3
-2683,Elena Palomo Otero,8,upper,40,3
-2684,Shawn Packwood Zac Campbell,1,upper,41,3
-2685,Reginald Leipsic,2,upper,41,3
-2686,Choi Junho,3,upper,41,3
-2687,Bert Hubert,4,upper,41,3
-2688,Mario Rinaldi,5,upper,41,3
-2689,Luis Arturo Jacobo,6,upper,41,3
-2690,Anh Tuan Truong,7,upper,41,3
-2691,Leonid Yeykelis,8,upper,41,3
-2692,Monica Lees,1,upper,42,3
-2693,Evelyn Urcull˙ Madrid,2,upper,42,3
-2694,Nicolas B Pierron,3,upper,42,3
-2695,Andy Vogel,4,upper,42,3
-2696,Dan-Ioan Maxim,5,upper,42,3
-2697,Yury Delendik,6,upper,42,3
-2698,Paul Sawaya,7,upper,42,3
-2699,Jonathan Coppeard,8,upper,42,3
-2700,Victor Ng,9,upper,42,3
-2701,Adrian Crespo,1,upper,43,3
-2702,Srikar Ananthula,2,upper,43,3
-2703,Stephen Wanjau,3,upper,43,3
-2704,Jan Horak,4,upper,43,3
-2705,Duke Leto,5,upper,43,3
-2706,Matthew Schranz,6,upper,43,3
-2707,Brian Groudan,7,upper,43,3
-2708,Rick Reitmaier,8,upper,43,3
-2709,Vien Doan,9,upper,43,3
-2710,Joanmarie Diggs,10,upper,43,3
-2711,Laurens Holst,1,upper,44,3
-2712,Stelios Gidaris,2,upper,44,3
-2713,AndrÈs Hern·ndez Monge,3,upper,44,3
-2714,Robert Reyes,4,upper,44,3
-2715,Frank Lee,5,upper,44,3
-2716,Geoffrey Young Brown,6,upper,44,3
-2717,John Giannelos,7,upper,44,3
-2718,Timothy Nikkel,8,upper,44,3
-2719,Mat?j Cepl,9,upper,44,3
-2720,Luana Hermann de Freitas,1,upper,45,3
-2721,Sylvain Pasche,2,upper,45,3
-2722,JP Rosevear,3,upper,45,3
-2723,Atul Varma,4,upper,45,3
-2724,Lucas Salton Cardinali,5,upper,45,3
-2725,Kenneth Ace A Sungcaya,6,upper,45,3
-2726,Paul Yang,7,upper,45,3
-2727,Zach Beauvais,8,upper,45,3
-2728,Paul MacQuiddy,1,upper,46,3
-2729,Kevin Gerich,2,upper,46,3
-2730,Tony Hartono,3,upper,46,3
-2731,Jason Duell,4,upper,46,3
-2732,Jo„o Palharini,5,upper,46,3
-2733,Stephen Beitzel,6,upper,46,3
-2734,Rizky Ariestiyansyah,7,upper,46,3
-2735,Jerry Shih,8,upper,46,3
-2736,Koji Fujimoto,9,upper,46,3
-2737,Andras Timar,10,upper,46,3
-2738,Uri Bernstein,1,upper,47,3
-2739,Pete Bevin,2,upper,47,3
-2740,Chris Lee,3,upper,47,3
-2741,Mindy Liu,4,upper,47,3
-2742,Vlad Krasnov,5,upper,47,3
-2743,Firoz Ahmad,6,upper,47,3
-2744,Michael Sullivan,7,upper,47,3
-2745,Raman Tenneti,8,upper,47,3
-2746,Saurabh Anand,9,upper,47,3
-2747,Bret Reckard,10,upper,47,3
-2748,Zoltan Varga,1,upper,48,3
-2749,Wilfredo Sanchez,2,upper,48,3
-2750,Jordan Delgado,3,upper,48,3
-2751,Jaeyoon Kim,4,upper,48,3
-2752,Mike Trinkala,5,upper,48,3
-2753,Shea Helms,6,upper,48,3
-2754,Ben Striegel,7,upper,48,3
-2755,Sawyer Hollenshead,8,upper,48,3
-2756,Blair McBride,9,upper,48,3
-2757,Kevin Dangoor,10,upper,48,3
-2758,Zouaoui Maroua,1,upper,49,3
-2759,Shih Han Lin,2,upper,49,3
-2760,Andrea Marchesini,3,upper,49,3
-2761,Kelong Luo,4,upper,49,3
-2762,Hiroshi Shimoda,5,upper,49,3
-2763,Michael Burns,6,upper,49,3
-2764,Wen Shaohua,7,upper,49,3
-2765,Bill Gibbons,8,upper,49,3
-2766,Ian Melven,9,upper,49,3
-2767,Julia Capoduro,10,upper,49,3
-2768,Lyubomir Popov,1,upper,50,3
-2769,Simon Tennant,2,upper,50,3
-2770,Paul Pullormadam,3,upper,50,3
-2771,Andreea Diana Pod,4,upper,50,3
-2772,Jed Parsons,5,upper,50,3
-2773,Yuanzheng Guo,6,upper,50,3
-2774,Tom Lowenthal,7,upper,50,3
-2775,David Epstein,8,upper,50,3
-2776,Marco Chen,9,upper,50,3
-2777,Eli Friedman,1,upper,51,3
-2778,Yancy Rivera,2,upper,51,3
-2779,Wil Clouser,3,upper,51,3
-2780,Ramesh Krishnamagaru,4,upper,51,3
-2781,Eduardo Esc,5,upper,51,3
-2782,Andrei Romanov,6,upper,51,3
-2783,Dan Rosen,7,upper,51,3
-2784,Takumi Shimizugashira,8,upper,51,3
-2785,Axel Hecht,9,upper,51,3
-2786,Shaw Hosaka,1,upper,52,3
-2787,Panagiotis Astithas,2,upper,52,3
-2788,Masatoshi Kimura,3,upper,52,3
-2789,Buddhi Raj Tuladhar,4,upper,52,3
-2790,Andreas Franke,5,upper,52,3
-2791,Zak Greant,6,upper,52,3
-2792,Phil Peterson,7,upper,52,3
-2793,Jos Bola,8,upper,52,3
-2794,Anfauglir R Kz,9,upper,52,3
-2795,Erik Rose,10,upper,52,3
-2796,Laura Mesa,1,upper,53,3
-2797,Alexis Metaireau,2,upper,53,3
-2798,Sau Sheong Chang,3,upper,53,3
-2799,Aldo Medina Ruiz Diaz,4,upper,53,3
-2800,Michael Leventhal,5,upper,53,3
-2801,Chris Van Wiemeersch,6,upper,53,3
-2802,Peat Bakke,7,upper,53,3
-2803,Michael Kˆhler,8,upper,53,3
-2804,Osman Alper,1,upper,54,3
-2805,Martin Schrˆder,2,upper,54,3
-2806,Peter Schultz,3,upper,54,3
-2807,Michael Hung,4,upper,54,3
-2808,Koichi Yasuoka,5,upper,54,3
-2809,Andre Garzia,6,upper,54,3
-2810,Xing-Yi Ho,7,upper,54,3
-2811,Allen Gunn,8,upper,54,3
-2812,Raj Sen Sharma,9,upper,54,3
-2813,Benjamin Sternthal,10,upper,54,3
-2814,Orinx Chen,1,upper,55,3
-2815,Paul Silaghi,2,upper,55,3
-2816,Florian Janssen,3,upper,55,3
-2817,Michael A Balazs,4,upper,55,3
-2818,FrÈdÈric Chateaux,5,upper,55,3
-2819,Jordan Mendelson,6,upper,55,3
-2820,Shuichiro Inomata,7,upper,55,3
-2821,Bacely YoroBi,8,upper,55,3
-2822,Will Guaraldi,9,upper,55,3
-2823,Sandra Milena Guevara,1,upper,56,3
-2824,Arda «,2,upper,56,3
-2825,Gorjan Jovanovski,3,upper,56,3
-2826,Pascal Finette,4,upper,56,3
-2827,Heather Arthur,5,upper,56,3
-2828,Jan Varga,6,upper,56,3
-2829,Naveed Ihsanullah,7,upper,56,3
-2830,Jeff Caldwell,8,upper,56,3
-2831,Jan Bambach,9,upper,56,3
-2832,Lee Tom,10,upper,56,3
-2833,Even Chang,1,upper,57,3
-2834,Markus Rex,2,upper,57,3
-2835,Dale Harvey,3,upper,57,3
-2836,Christopher Jacob McDonald,4,upper,57,3
-2837,Mark Giffin,5,upper,57,3
-2838,Mihai Morar,6,upper,57,3
-2839,Amit Kumar Thakur,7,upper,57,3
-2840,Finan Akbar,8,upper,57,3
-2841,Diane Branson,9,upper,57,3
-2842,Lonnen,1,upper,58,3
-2843,Guillermo LÛpez,2,upper,58,3
-2844,Gregor Wagner,3,upper,58,3
-2845,Leon Zhang,4,upper,58,3
-2846,ThÈo Chevalier,5,upper,58,3
-2847,David Anderson,6,upper,58,3
-2848,Marijn Haverbeke,7,upper,58,3
-2849,Ryan Doherty,8,upper,58,3
-2850,Ravi Pina,9,upper,58,3
-2851,Jatin Billimoria,10,upper,58,3
-2852,YS Liu,1,upper,59,3
-2853,Aditia A Pratama,2,upper,59,3
-2854,Harish Kumar Epuri,3,upper,59,3
-2855,Nick Chapman,4,upper,59,3
-2856,Jose Maria Chia,5,upper,59,3
-2857,Boying Lu,6,upper,59,3
-2858,Alex Pakhotin,7,upper,59,3
-2859,Gareth Cull,8,upper,59,3
-2860,Bob Owen,9,upper,59,3
-2861,Hector Zhao,10,upper,59,3
-2862,Javier H Pedemonte,1,upper,60,3
-2863,Tristan Crane,2,upper,60,3
-2864,Prateek Wadhwa,3,upper,60,3
-2865,Bjorn Carlson,4,upper,60,3
-2866,Paul Theriault,5,upper,60,3
-2867,Masahiro Yamada,6,upper,60,3
-2868,Jono Silinis Xia,7,upper,60,3
-2869,Valeria Zysman,8,upper,60,3
-2870,Khim Chandalyn,9,upper,60,3
-2871,Oo Nwoye,1,upper,61,3
-2872,Manolis Varouhas,2,upper,61,3
-2873,Elesban Landero,3,upper,61,3
-2874,Chris Lawson,4,upper,61,3
-2875,Davi Oliveira,5,upper,61,3
-2876,Steve Lamm,6,upper,61,3
-2877,Warwick Allison,7,upper,61,3
-2878,Erkan Kaplan,8,upper,61,3
-2879,Mitchell Baker,9,upper,61,3
-2880,Ian Leue,1,upper,62,3
-2881,Marco PÈrez Kistler,2,upper,62,3
-2882,Ryan Kelly,3,upper,62,3
-2883,Sean Alamares,4,upper,62,3
-2884,Ashley Sullivan,5,upper,62,3
-2885,Jonah Ho,6,upper,62,3
-2886,Joe Keane,7,upper,62,3
-2887,Janice Hoke,8,upper,62,3
-2888,Ariel Backenroth,9,upper,62,3
-2889,Stephen DesRoches,10,upper,62,3
-2890,Robert,11,upper,62,3
-2891,Nils Maier,1,upper,63,3
-2892,Sriram Raghuraman,2,upper,63,3
-2893,Shirine Mitchell,3,upper,63,3
-2894,Aaron Joshua Cajes,4,upper,63,3
-2895,Reza Faiz A Rahman,5,upper,63,3
-2896,Remy Sharp,6,upper,63,3
-2897,Igor Bukanov,7,upper,63,3
-2898,Gervase Markham,8,upper,63,3
-2899,Ed Lee,1,upper,64,3
-2900,Matej Novak,2,upper,64,3
-2901,Matthew Middleton,3,upper,64,3
-2902,Netha Hussain,4,upper,64,3
-2903,Joe Stagner,5,upper,64,3
-2904,Jorge Villalobos,6,upper,64,3
-2905,Neil Ford,7,upper,64,3
-2906,Jason Eager,8,upper,64,3
-2907,Glenn M Johnson,9,upper,64,3
-2908,Lindsey Kuper,10,upper,64,3
-2909,Dino Anderson,1,upper,65,3
-2910,Romain Vignes,2,upper,65,3
-2911,Aditya Fitri Hananta Putra,3,upper,65,3
-2912,Paul Osman,4,upper,65,3
-2913,Evan Carter,5,upper,65,3
-2914,Sajeev Soni,6,upper,65,3
-2915,Huei-Horng Yo,7,upper,65,3
-2916,Chenxia Liu,8,upper,65,3
-2917,Sergio Celani,9,upper,65,3
-2918,Scott Furman,10,upper,65,3
-2919,Jafar Muhammed,1,lower,1,3
-2920,Akshat Kedia,2,lower,1,3
-2921,Karen Ward,3,lower,1,3
-2922,Toomore Chiang,4,lower,1,3
-2923,Ryan Tilder,5,lower,1,3
-2924,Achilleas Pipinellis,6,lower,1,3
-2925,Andrew Wason,7,lower,1,3
-2926,Will Shanks,8,lower,1,3
-2927,Tantek «elik,9,lower,1,3
-2928,Matthew McPherrin,1,lower,2,3
-2929,Daniel Buchner,2,lower,2,3
-2930,Steve Parkinson,3,lower,2,3
-2931,Carlos Sim,4,lower,2,3
-2932,Mohamed Firas Hajjej,5,lower,2,3
-2933,Glenn Howard,6,lower,2,3
-2934,Mike Gauthier,7,lower,2,3
-2935,Vladim Vala,8,lower,2,3
-2936,Md SA Rasel,9,lower,2,3
-2937,Tim Taylor,1,lower,3,3
-2938,Mihai Constandis,2,lower,3,3
-2939,Hao Shen,3,lower,3,3
-2940,Lufei Jia,4,lower,3,3
-2941,Chris Coulson,5,lower,3,3
-2942,Neil Marshall,6,lower,3,3
-2943,Peter VanHelden,7,lower,3,3
-2944,Sharon Laquinta,8,lower,3,3
-2945,Harsha Vardhan,9,lower,3,3
-2946,Vlado Valaötiak,10,lower,3,3
-2947,Ioana Budnar,1,lower,4,3
-2948,Phillip Bond,2,lower,4,3
-2949,Baris Derin,3,lower,4,3
-2950,Vladimir Krstic,4,lower,4,3
-2951,Aniket Deshpande,5,lower,4,3
-2952,R Veera Kumar,6,lower,4,3
-2953,Michitaro Shozawa,7,lower,4,3
-2954,Justin Pahara,8,lower,4,3
-2955,Muris Herak,9,lower,4,3
-2956,Kat Braybrooke,1,lower,5,3
-2957,Christos Bacharakis,2,lower,5,3
-2958,Alfred Peng,3,lower,5,3
-2959,Prasad Sunkari,4,lower,5,3
-2960,Jordi Mas,5,lower,5,3
-2961,Charity Lu,6,lower,5,3
-2962,Paul Jarratt,7,lower,5,3
-2963,Sergiy Tupchiy,8,lower,5,3
-2964,Gergo Lippai,9,lower,5,3
-2965,Torben L¸ders,10,lower,5,3
-2966,Erwan Guyader,1,lower,6,3
-2967,Ilya Pukhalski,2,lower,6,3
-2968,Xiaobin Lu,3,lower,6,3
-2969,Giovanny Andres Gongora Granada,4,lower,6,3
-2970,Viswaprasath KS,5,lower,6,3
-2971,Taco Witte,6,lower,6,3
-2972,Steve Rubinstein,7,lower,6,3
-2973,Phillip Smith,8,lower,6,3
-2974,Chittireddy Rakesh Kumar,1,lower,7,3
-2975,Soumya Kanti Chakraborty,2,lower,7,3
-2976,Sean Gao,3,lower,7,3
-2977,German Bauer,4,lower,7,3
-2978,Bo-Yi Wu,5,lower,7,3
-2979,George Drapeau,6,lower,7,3
-2980,B˘i Vi?t Khoa,7,lower,7,3
-2981,Daniel Witte,8,lower,7,3
-2982,Dongseok Jang,9,lower,7,3
-2983,Jai Pradeesh,1,lower,8,3
-2984,David Baron,2,lower,8,3
-2985,Nuri Abidin,3,lower,8,3
-2986,Tristan Miller,4,lower,8,3
-2987,Isac Lagerblad,5,lower,8,3
-2988,Rose Shane Gil Lopez,6,lower,8,3
-2989,Thomas Ho,7,lower,8,3
-2990,Michelle Cristobal,8,lower,8,3
-2991,Mike Collins,9,lower,8,3
-2992,Graeme McCutcheon,1,lower,9,3
-2993,Maton Anthony,2,lower,9,3
-2994,Mike Ang,3,lower,9,3
-2995,FrÈdÈric Harper,4,lower,9,3
-2996,Pablo EscandÛn,5,lower,9,3
-2997,Lawrence Mandel,6,lower,9,3
-2998,Nasir Khan Saikat,7,lower,9,3
-2999,Anant Narayanan,8,lower,9,3
-3000,Kristoffer Melin,1,lower,10,3
-3001,Kurt Kohler,2,lower,10,3
-3002,Ian Spence,3,lower,10,3
-3003,Pat Gunn,4,lower,10,3
-3004,Andrew Simmonds,5,lower,10,3
-3005,Roy Frostig,6,lower,10,3
-3006,David Walsh,7,lower,10,3
-3007,Andrew Halberstadt,8,lower,10,3
-3008,Vivien Jin,9,lower,10,3
-3009,Norbert Lindenberg,10,lower,10,3
-3010,Noriyuki Nakajima,1,lower,11,3
-3011,Jim Roskind,2,lower,11,3
-3012,Bing Han,3,lower,11,3
-3013,Paul Gorodyansky,4,lower,11,3
-3014,Stephany Wilkes,5,lower,11,3
-3015,Elad Alfassa,6,lower,11,3
-3016,Lorenzo Colitti,7,lower,11,3
-3017,Mark Mayo,8,lower,11,3
-3018,Ioan Chiciudean,9,lower,11,3
-3019,Pablo Olmos De Aguilera,1,lower,12,3
-3020,Sreenidhi Pundi Muralidharan,2,lower,12,3
-3021,Christian Eyrich,3,lower,12,3
-3022,Ralf Hildebrandt,4,lower,12,3
-3023,Hilary Hall,5,lower,12,3
-3024,Jane Prusakova,6,lower,12,3
-3025,Rafael Esteves Sanches,7,lower,12,3
-3026,Eric Faust,8,lower,12,3
-3027,Dale Karp,1,lower,13,3
-3028,Melissa Keays,2,lower,13,3
-3029,Steven Wagner,3,lower,13,3
-3030,Benjamin Adida,4,lower,13,3
-3031,Greg Roelofs,5,lower,13,3
-3032,Zilmar de Souza Junior,6,lower,13,3
-3033,Jishnu Menon,7,lower,13,3
-3034,Pittaya Sroilong,8,lower,13,3
-3035,Jonathan Leto,9,lower,13,3
-3036,Bert Driehuis,1,lower,14,3
-3037,Syd Logan,2,lower,14,3
-3038,Matthew Zahorik,3,lower,14,3
-3039,Diane Loviglio,4,lower,14,3
-3040,David Nebinger,5,lower,14,3
-3041,Peter O'Neill Jr,6,lower,14,3
-3042,Isriya Paireepairit,7,lower,14,3
-3043,Michal PurzyÒski,8,lower,14,3
-3044,Ralph Giles,9,lower,14,3
-3045,David Dahl,10,lower,14,3
-3046,Andrew McCreight,1,lower,15,3
-3047,Mohit Kumar,2,lower,15,3
-3048,Bhavana Bajaj,3,lower,15,3
-3049,Julia Buchner,4,lower,15,3
-3050,Veeven,5,lower,15,3
-3051,Alexandra Cabral,6,lower,15,3
-3052,Delphine LebÈdel,7,lower,15,3
-3053,Atul Jangra,8,lower,15,3
-3054,Jim Spring,9,lower,15,3
-3055,Ali Spivak,10,lower,15,3
-3056,Yuren Ju,11,lower,15,3
-3057,Riadh Chtara,1,lower,16,3
-3058,Haowei Lee,2,lower,16,3
-3059,Philippe Chiasson,3,lower,16,3
-3060,Jairo Ruiz,4,lower,16,3
-3061,Shigeki Narisawa,5,lower,16,3
-3062,Zachary Carter,6,lower,16,3
-3063,Paula Clemente,7,lower,16,3
-3064,Jeff Lee,8,lower,16,3
-3065,Marien Zwart,9,lower,16,3
-3066,Elika Etemad,10,lower,16,3
-3067,Alireza Kheirkhahan,1,lower,17,3
-3068,Mahay Alam Khan,2,lower,17,3
-3069,Silvio Chiba,3,lower,17,3
-3070,Vilson Vieira,4,lower,17,3
-3071,Alec Flett,5,lower,17,3
-3072,Jussi Bergstrˆm,6,lower,17,3
-3073,Polawat Phetra,7,lower,17,3
-3074,Naoki Hirata,8,lower,17,3
-3075,Eddy Bruel,9,lower,17,3
-3076,Alsadig Hamad,10,lower,17,3
-3077,Sarah Broadwell,1,lower,18,3
-3078,Christian Biesinger,2,lower,18,3
-3079,Jukka Santala,3,lower,18,3
-3080,Fabien Cellier,4,lower,18,3
-3081,Leston Buell,5,lower,18,3
-3082,J·nos Hol·nyi-Papp,6,lower,18,3
-3083,Brad Fuellenbach,7,lower,18,3
-3084,Alexey Gubanov,8,lower,18,3
-3085,Steve Won,9,lower,18,3
-3086,Tuomas Koski,1,lower,19,3
-3087,Carter Davidson,2,lower,19,3
-3088,Simone Bruno,3,lower,19,3
-3089,Dave Neuer,4,lower,19,3
-3090,Stefan Hermes,5,lower,19,3
-3091,Vysakh PR,6,lower,19,3
-3092,Dave Jagoda,7,lower,19,3
-3093,Pedro Pinheiro,8,lower,19,3
-3094,Doris Coleman,9,lower,19,3
-3095,Vishnu Sudhakaran,10,lower,19,3
-3096,Elsa Rodriguez,1,lower,20,3
-3097,Joseph Elwell,2,lower,20,3
-3098,Lissy Alexandre,3,lower,20,3
-3099,David Bruant,4,lower,20,3
-3100,Seokchan Yun,5,lower,20,3
-3101,Ediv‚nia Dias,6,lower,20,3
-3102,Matt Sorenson,7,lower,20,3
-3103,Nikhil Marathe,8,lower,20,3
-3104,Vanja Tumbas,9,lower,20,3
-3105,Aleksandar Savic,1,lower,21,3
-3106,Abdelkrim Boudekhani,2,lower,21,3
-3107,Tailer Giacometti,3,lower,21,3
-3108,Ernest Chiang Deng-Wei,4,lower,21,3
-3109,Reed Loden,5,lower,21,3
-3110,Raluca Drobut,6,lower,21,3
-3111,Devesh Batra,7,lower,21,3
-3112,Alex Skrynnikov,8,lower,21,3
-3113,Marcelo Luis Comin Araldi,1,lower,22,3
-3114,Wan-Teh Chang,2,lower,22,3
-3115,Rory Petty,3,lower,22,3
-3116,Vlad Ghetiu,4,lower,22,3
-3117,Jonas J¯rgensen,5,lower,22,3
-3118,John Hesling,6,lower,22,3
-3119,Satoru Yamaguchi,7,lower,22,3
-3120,Adrian J Fernandez,8,lower,22,3
-3121,Mohd Fazli Azran,1,lower,23,3
-3122,Andrew Sutherland,2,lower,23,3
-3123,Markus H¸bner,3,lower,23,3
-3124,Kevin Needham,4,lower,23,3
-3125,Stacy Martin,5,lower,23,3
-3126,Benjamin Peterson,6,lower,23,3
-3127,Ramona Costandel,7,lower,23,3
-3128,John Kristian,8,lower,23,3
-3129,Marcos Costales,1,lower,24,3
-3130,Waldemar Horwat,2,lower,24,3
-3131,Jasmine Llacer,3,lower,24,3
-3132,Anika Briner,4,lower,24,3
-3133,Ivan Pilat,5,lower,24,3
-3134,Trond Hansen,6,lower,24,3
-3135,Cyrus Patel,7,lower,24,3
-3136,Jakob Kappel Petersen,8,lower,24,3
-3137,Neil Rashbrook,9,lower,24,3
-3138,Clint Lalonde,1,lower,25,3
-3139,Brano Pavelka,2,lower,25,3
-3140,Chinmay Patel,3,lower,25,3
-3141,Cosmin Malutan,4,lower,25,3
-3142,Craig Topper,5,lower,25,3
-3143,Li-ping Hsu,6,lower,25,3
-3144,Daniel Bratell,7,lower,25,3
-3145,Matt Watson,8,lower,25,3
-3146,Allan Beaufour,9,lower,25,3
-3147,Mike Connelly,10,lower,25,3
-3148,Marin,11,lower,25,3
-3149,Kaltani,1,lower,26,3
-3150,German Toro del Valle,2,lower,26,3
-3151,Ian McGreer,3,lower,26,3
-3152,Brian King,4,lower,26,3
-3153,Alex Faaborg,5,lower,26,3
-3154,Alon Zakai,6,lower,26,3
-3155,Crutcher Dunnavant,7,lower,26,3
-3156,Ben Combee,8,lower,26,3
-3157,Subhasish Kundu,9,lower,26,3
-3158,James Hicks,1,lower,27,3
-3159,Doug Sherk,2,lower,27,3
-3160,Mark Jeffries,3,lower,27,3
-3161,Howar31,4,lower,27,3
-3162,Wei-Ko Kao,5,lower,27,3
-3163,Peter Chen,6,lower,27,3
-3164,Hubert SablonniÈre,7,lower,27,3
-3165,Takayuki Tei,8,lower,27,3
-3166,Matthew Riley MacPherson,9,lower,27,3
-3167,Ryan Michael Tilder,1,lower,28,3
-3168,Ryan Brase,2,lower,28,3
-3169,Jeff Dlouhy,3,lower,28,3
-3170,Sean Dunn,4,lower,28,3
-3171,Greg Noel,5,lower,28,3
-3172,Iustina Gliga,6,lower,28,3
-3173,Jean-Marc Valin,7,lower,28,3
-3174,Eric Holk,8,lower,28,3
-3175,Sayak Sarkar,9,lower,28,3
-3176,April Morone,10,lower,28,3
-3177,Jeff Mitchell,11,lower,28,3
-3178,Javier Davalos,1,lower,29,3
-3179,Friedel Wolff,2,lower,29,3
-3180,Abmar Barros,3,lower,29,3
-3181,Tom Paquin,4,lower,29,3
-3182,Jonas Sicking,5,lower,29,3
-3183,Jason Haas,6,lower,29,3
-3184,Bill Maggs,7,lower,29,3
-3185,Sudhakar Chandrasekharan,8,lower,29,3
-3186,Andreas Christodoulou,9,lower,29,3
-3187,Chris Ramsden,1,lower,30,3
-3188,Fawad Hassan,2,lower,30,3
-3189,Michael Hanson,3,lower,30,3
-3190,Bahy Mohammed,4,lower,30,3
-3191,Victor Neo,5,lower,30,3
-3192,Sandraghassen Subbaraya Pillai,6,lower,30,3
-3193,Md Aminul Islam Sajib,7,lower,30,3
-3194,Roberto Principiano,1,lower,31,3
-3195,Jim Ningjie Chen,2,lower,31,3
-3196,Yuna Jong,3,lower,31,3
-3197,Steve Bunce,4,lower,31,3
-3198,Frank Wein,5,lower,31,3
-3199,Srilatha Moturi,6,lower,31,3
-3200,Shane Caraveo,7,lower,31,3
-3201,Jay Garcia,8,lower,31,3
-3202,Matheus de Vasconcellos Martins,9,lower,31,3
-3203,Nathan Egge,1,lower,32,3
-3204,Joshua Rubin,2,lower,32,3
-3205,Thomas D¸llmann,3,lower,32,3
-3206,Randell Jesup,4,lower,32,3
-3207,Nasimul Amin,5,lower,32,3
-3208,Daisuke Akatsuka,6,lower,32,3
-3209,Bader Zaidan,7,lower,32,3
-3210,Samrat Bhattacharjee,8,lower,32,3
-3211,Michael Judge,9,lower,32,3
-3212,≈smund SkjÊveland,1,lower,33,3
-3213,Thomas Bassetto,2,lower,33,3
-3214,Kinou Kinouchou,3,lower,33,3
-3215,Jessilyn Davis,4,lower,33,3
-3216,Peiying Mo,5,lower,33,3
-3217,Saurabh Nair,6,lower,33,3
-3218,Faten Ben Thabet,7,lower,33,3
-3219,Leslie Orchard,8,lower,33,3
-3220,Shahrin Hossain,9,lower,33,3
-3221,Garrett Casto,1,lower,34,3
-3222,Jeff Tsai,2,lower,34,3
-3223,Rechung Fujihira,3,lower,34,3
-3224,Matt Harris,4,lower,34,3
-3225,Se·n Collins,5,lower,34,3
-3226,Nagarjuna Kalidindi,6,lower,34,3
-3227,Khandaker Md Ikrama-Bin-Hafiz,7,lower,34,3
-3228,Ujjwal Hatuwal,8,lower,34,3
-3229,Jordan Santell,9,lower,34,3
-3230,Eric Broadbent,1,lower,35,3
-3231,Markus Adrario,2,lower,35,3
-3232,Scott Greenlay,3,lower,35,3
-3233,Nathan Froyd,4,lower,35,3
-3234,Madalina Ana,5,lower,35,3
-3235,Lukas Diener,6,lower,35,3
-3236,Andrea Balle,7,lower,35,3
-3237,Shriram Kunchanapalli,8,lower,35,3
-3238,Habibur Rahman,9,lower,35,3
-3239,Shadhin,1,lower,36,3
-3240,Andrew Hurle,2,lower,36,3
-3241,Bradley Baetz,3,lower,36,3
-3242,SÈamus ” Ciardhu·in,4,lower,36,3
-3243,Shazia Rizwan,5,lower,36,3
-3244,Aaron Cajes,6,lower,36,3
-3245,Gustavo Munro,7,lower,36,3
-3246,Nanda Indra Susila,8,lower,36,3
-3247,Martin Giger,9,lower,36,3
-3248,MD Owes Quruny Shubho,1,lower,37,3
-3249,Mashkawat Ahsan,2,lower,37,3
-3250,Jennifer Morrow,3,lower,37,3
-3251,Samsuddin Wira Samsuddin,4,lower,37,3
-3252,David Keeler,5,lower,37,3
-3253,Andrei Alin Trif,6,lower,37,3
-3254,Tzu-Lin Huang,7,lower,37,3
-3255,Ani Peter,8,lower,37,3
-3256,Masashi Honma,1,lower,38,3
-3257,Edin Cenanovic,2,lower,38,3
-3258,Rick Eyre,3,lower,38,3
-3259,Leela Sai Aravind Tadikonda,4,lower,38,3
-3260,Paul Kim,5,lower,38,3
-3261,Vicky Sun,6,lower,38,3
-3262,Silvia Zhao,7,lower,38,3
-3263,Kevin John Ventura,8,lower,38,3
-3264,Brock Whitten,9,lower,38,3
-3265,Bo Bayles,10,lower,38,3
-3266,James Hugman,1,lower,39,3
-3267,Dennis Baldwin,2,lower,39,3
-3268,Cristina Bratu,3,lower,39,3
-3269,Baurzhan Muftakhidinov,4,lower,39,3
-3270,Celia Liang,5,lower,39,3
-3271,Gene Lian,6,lower,39,3
-3272,David Humphrey,7,lower,39,3
-3273,Florian QuËze,8,lower,39,3
-3274,Ivona Haban,9,lower,39,3
-3275,Chris Keating,1,lower,40,3
-3276,Irvin Chen,2,lower,40,3
-3277,Ceballos,3,lower,40,3
-3278,Marina Samuel,4,lower,40,3
-3279,Delalorm Sesi Semabia,5,lower,40,3
-3280,Maya Barrow,6,lower,40,3
-3281,Mike Ratcliffe,7,lower,40,3
-3282,Alex Mayorga Adame,8,lower,40,3
-3283,Hindrik Sijens,9,lower,40,3
-3284,Masatoshi Sato,1,lower,41,3
-3285,Dave Bragsalla,2,lower,41,3
-3286,Ashutosh Shringi,3,lower,41,3
-3287,Ben Kelly,4,lower,41,3
-3288,Adi Zeljkovic,5,lower,41,3
-3289,Mahesh Tyagarajan,6,lower,41,3
-3290,Shezmeen Prasad,7,lower,41,3
-3291,Wendy Gibbons,8,lower,41,3
-3292,Mario Volarevi,9,lower,41,3
-3293,Marc Byrd,1,lower,42,3
-3294,Dongsheng Xue,2,lower,42,3
-3295,Felipe Gomes,3,lower,42,3
-3296,Emilio Sep˙lveda,4,lower,42,3
-3297,Marlon Bishop,5,lower,42,3
-3298,Emanuel Hoogeveen,6,lower,42,3
-3299,Rick Downes,7,lower,42,3
-3300,David Lanham,8,lower,42,3
-3301,Margaret Leibovic,9,lower,42,3
-3302,Tarek ZiadÈ,1,lower,43,3
-3303,Agustin Ferrario,2,lower,43,3
-3304,Alice Wyman,3,lower,43,3
-3305,Miguel Lucas Garcia,4,lower,43,3
-3306,Philip K Warren,5,lower,43,3
-3307,Wennan Zhu,6,lower,43,3
-3308,Berni Melero,7,lower,43,3
-3309,Pavel Ivanov,8,lower,43,3
-3310,Chris Hill,9,lower,43,3
-3311,Christopher Heinrich,1,lower,44,3
-3312,Raymond Agbeame,2,lower,44,3
-3313,Ian Liu Chia-Sheng Liu,3,lower,44,3
-3314,Shannon Clayton,4,lower,44,3
-3315,Remco Kaptein,5,lower,44,3
-3316,Patinya Sangiamchit,6,lower,44,3
-3317,Hamilton Ulmer,7,lower,44,3
-3318,Joan Touzet,8,lower,44,3
-3319,Gabriela Terceros Ascarrunz,1,lower,45,3
-3320,Takeshi Nishimura,2,lower,45,3
-3321,Jason Garrett-Glaser,3,lower,45,3
-3322,Marco Castelluccio,4,lower,45,3
-3323,Richard Milewski,5,lower,45,3
-3324,Francesco Lodolo,6,lower,45,3
-3325,Thomas Down,7,lower,45,3
-3326,Andrew Veliath,1,lower,46,3
-3327,Mark Steele,2,lower,46,3
-3328,Gary Chan,3,lower,46,3
-3329,Seth Spitzer,4,lower,46,3
-3330,Dwi Hardyanto,5,lower,46,3
-3331,Pontus Lidman,6,lower,46,3
-3332,Frederic Wenzel,7,lower,46,3
-3333,Kornel Misiejuk,8,lower,46,3
-3334,Chelsea Novak,9,lower,46,3
-3335,Ying ui Lora chen,10,lower,46,3
-3336,Arun Ranganathan,1,lower,47,3
-3337,Praburaajan Selvarajan,2,lower,47,3
-3338,Christian Holler,3,lower,47,3
-3339,Diana Olga Ferreira da Silva,4,lower,47,3
-3340,Oleg Khokhlov,5,lower,47,3
-3341,Amod Narendra Narvekar,6,lower,47,3
-3342,Lasse Mar¯en,7,lower,47,3
-3343,Carla Jessica,1,lower,48,3
-3344,Jason Kersey,2,lower,48,3
-3345,Balazs Pataki,3,lower,48,3
-3346,Mark Heijl,4,lower,48,3
-3347,Jon Petto,5,lower,48,3
-3348,Erdal Ronahi,6,lower,48,3
-3349,Stacy Conklin Martin,7,lower,48,3
-3350,Florian Scholz,8,lower,48,3
-3351,Aleksej Perepyolkin,9,lower,48,3
-3352,Paolo Amadini,10,lower,48,3
-3353,Alex Musil,1,lower,49,3
-3354,Muhammad Fadhil,2,lower,49,3
-3355,Caitlin A Galimidi,3,lower,49,3
-3356,John Morrison,4,lower,49,3
-3357,Tomi Aarnio,5,lower,49,3
-3358,Sahar Chok,6,lower,49,3
-3359,Ayan Shah,7,lower,49,3
-3360,Daniel Filho,8,lower,49,3
-3361,David Rajchenbach-Teller,9,lower,49,3
-3362,Rich Pizzarro,1,lower,50,3
-3363,Erica Jostedt,2,lower,50,3
-3364,Andreea Matei,3,lower,50,3
-3365,Aki Sasaki,4,lower,50,3
-3366,Matthew Pressman,5,lower,50,3
-3367,Patrick-James Dionisio,6,lower,50,3
-3368,Satybaldinov Zhanbolat,7,lower,50,3
-3369,Todd Larason,8,lower,50,3
-3370,Wes Kocher,9,lower,50,3
-3371,Dian Ina Mahendra,1,lower,51,3
-3372,Daniel Walkowski,2,lower,51,3
-3373,Ulisse Perusin,3,lower,51,3
-3374,Brad Neuberg,4,lower,51,3
-3375,Marcus Vinicius Saad,5,lower,51,3
-3376,Rashedul Kabir,6,lower,51,3
-3377,Fadel Waheed,7,lower,51,3
-3378,Chris Nelson,8,lower,51,3
-3379,Peter Dolanjski,9,lower,51,3
-3380,Marc Attinasi,1,lower,52,3
-3381,David D Miller,2,lower,52,3
-3382,Sanjay Gupta,3,lower,52,3
-3383,Marwa Zidan,4,lower,52,3
-3384,Murali Nandigama,5,lower,52,3
-3385,Terrence Cole,6,lower,52,3
-3386,Eric Pollmann,7,lower,52,3
-3387,Steven Groginsky,8,lower,52,3
-3388,Brian Heinrich,9,lower,52,3
-3389,Younghwan Kwon,1,lower,53,3
-3390,Rj Ian Sevilla,2,lower,53,3
-3391,Adam Hauner,3,lower,53,3
-3392,Mohammad Saleh,4,lower,53,3
-3393,Ben Hutton,5,lower,53,3
-3394,Alexander Sack,6,lower,53,3
-3395,Brian R Bondy,7,lower,53,3
-3396,Raymond Yeh,8,lower,53,3
-3397,Florian Lainez,9,lower,53,3
-3398,Ben Francis,10,lower,53,3
-3399,John Ford,1,lower,54,3
-3400,Tomasz Nowakowski,2,lower,54,3
-3401,Joe Dytrych,3,lower,54,3
-3402,Fred Wenzel,4,lower,54,3
-3403,Scott Michaud,5,lower,54,3
-3404,Dylan K Schiemann,6,lower,54,3
-3405,Andrei Saprykin,7,lower,54,3
-3406,Suresh Duddi,8,lower,54,3
-3407,Justin Lazaro,9,lower,54,3
-3408,Alexander Keybl,1,lower,55,3
-3409,Marcia Knous,2,lower,55,3
-3410,Harinder Singh,3,lower,55,3
-3411,Keerthi Chandra,4,lower,55,3
-3412,Luis A Sanchez Romero,5,lower,55,3
-3413,Toby Elliott,6,lower,55,3
-3414,Rob Campbell,7,lower,55,3
-3415,Adnan Selimovic,8,lower,55,3
-3416,Belayet Hossain,9,lower,55,3
-3417,Michael Edwards,1,lower,56,3
-3418,Gen Kanai,2,lower,56,3
-3419,Julia Vallera,3,lower,56,3
-3420,Amarjeet Singh Rai,4,lower,56,3
-3421,Akriti Bhusal,5,lower,56,3
-3422,Frank Petitta,6,lower,56,3
-3423,Artanto Ishaam,7,lower,56,3
-3424,David Bialer,8,lower,56,3
-3425,Rosana Ardila,9,lower,56,3
-3426,Kim Murphy-Fong,10,lower,56,3
-3427,Oarabile Mudongo,1,lower,57,3
-3428,Ria Klaassen,2,lower,57,3
-3429,Matt Grimes,3,lower,57,3
-3430,Roger B Sidje,4,lower,57,3
-3431,Justin Dolske,5,lower,57,3
-3432,Christian Labis,6,lower,57,3
-3433,Patrick Brosset,7,lower,57,3
-3434,Jayanth devulapally,8,lower,57,3
-3435,San James Olweny,9,lower,57,3
-3436,Jithin Joji Anchanattu,1,lower,58,3
-3437,Brian Behlendorf,2,lower,58,3
-3438,Elisabetta Manuele,3,lower,58,3
-3439,Marc Schifer,4,lower,58,3
-3440,Chris Knowles,5,lower,58,3
-3441,Rick Fant,6,lower,58,3
-3442,Adam Sulmicki,7,lower,58,3
-3443,Anton Gagi?,8,lower,58,3
-3444,Joan Advincula,9,lower,58,3
-3445,Joe Hughes,1,lower,59,3
-3446,Avinash Kundaliya,2,lower,59,3
-3447,Karl Thiessen,3,lower,59,3
-3448,Bruce Mitchener,4,lower,59,3
-3449,Mike Manning,5,lower,59,3
-3450,Yofie Setiawan,6,lower,59,3
-3451,Eric Wei,7,lower,59,3
-3452,Rakesh Ambati,8,lower,59,3
-3453,Gerard Braad,9,lower,59,3
-3454,Samir Gehani,10,lower,59,3
-3455,Annika Heinle,1,lower,60,3
-3456,Pedro Garcia Rodriguez,2,lower,60,3
-3457,David Schleef,3,lower,60,3
-3458,Mark Lin,4,lower,60,3
-3459,Kosuke Kaizuka,5,lower,60,3
-3460,Cliff Argwings,6,lower,60,3
-3461,Chris Pearce,7,lower,60,3
-3462,Allan Caeg,8,lower,60,3
-3463,Armin Salyi,9,lower,60,3
-3464,Simone Cox,10,lower,60,3
-3465,Myung Shin Kim,1,lower,61,3
-3466,Cyrus Harmon,2,lower,61,3
-3467,Mohamed Dabbagh,3,lower,61,3
-3468,Kumaresan C S,4,lower,61,3
-3469,Jaydev Ajit Kumar,5,lower,61,3
-3470,Jim Melvin,6,lower,61,3
-3471,Benito Infantino,7,lower,61,3
-3472,Arpit Kumar,8,lower,61,3
-3473,Hajime Urayama,9,lower,61,3
-3474,Calvin,10,lower,61,3
-3475,Liu,1,lower,62,3
-3476,Simon Woodside,2,lower,62,3
-3477,Dave Liebreich,3,lower,62,3
-3478,Matthew Thomas,4,lower,62,3
-3479,Hani Chalouati,5,lower,62,3
-3480,Oleg Romashin,6,lower,62,3
-3481,Anca Haiduc,7,lower,62,3
-3482,Matt Woodrow,8,lower,62,3
-3483,Nicolae Cristian,9,lower,62,3
-3484,Youghourta Benali,1,upper,1,4
-3485,Alexander Slovesnik,2,upper,1,4
-3486,Brian Nicholson,3,upper,1,4
-3487,Michael Romo,4,upper,1,4
-3488,Abdelhak Fareh,5,upper,1,4
-3489,Darrin Henein,6,upper,1,4
-3490,Toshiyuki Oka,7,upper,1,4
-3491,Katherine Nelson,8,upper,1,4
-3492,Tony Mechelynck,1,upper,2,4
-3493,Sara Hermann,2,upper,2,4
-3494,Wei-Ko Kao,3,upper,2,4
-3495,Shu-yu Guo,4,upper,2,4
-3496,Kacem Boukraa,5,upper,2,4
-3497,Igor Kushnirskiy,6,upper,2,4
-3498,RubÈn MartÌn,7,upper,2,4
-3499,Avash Mulmi,8,upper,2,4
-3500,Dees Chinniah,9,upper,2,4
-3501,Steven MacLeod,1,upper,3,4
-3502,Ted Chien,2,upper,3,4
-3503,Frances Wong,3,upper,3,4
-3504,Roland Tanglao,4,upper,3,4
-3505,Tufael Khan,5,upper,3,4
-3506,Ruchi Lohani,6,upper,3,4
-3507,Julio Gomez Sanchez,7,upper,3,4
-3508,Jordi Serratosa,8,upper,3,4
-3509,Bernd Senf,9,upper,3,4
-3510,Mahesh Asolkar,10,upper,3,4
-3511,Morten Welinder,1,upper,4,4
-3512,Tan Tran,2,upper,4,4
-3513,Jeff Hammel,3,upper,4,4
-3514,Nicolas Perriault,4,upper,4,4
-3515,Davide Pasetto,5,upper,4,4
-3516,Azer Koculu,6,upper,4,4
-3517,Adam Muntner,7,upper,4,4
-3518,Jeremie Patonnier,8,upper,4,4
-3519,Sean McArthur,9,upper,4,4
-3520,Jo„o Lenno do Nascimento Azevedo,1,upper,5,4
-3521,Denish Okidi,2,upper,5,4
-3522,James Lewis Nance,3,upper,5,4
-3523,Willy Aguirre,4,upper,5,4
-3524,Josh Carpenter,5,upper,5,4
-3525,William Dorffer,6,upper,5,4
-3526,Hanfie Vandanu,7,upper,5,4
-3527,Louis Stowasser,8,upper,5,4
-3528,Reuben Morais,1,upper,6,4
-3529,Philipp Sackl,2,upper,6,4
-3530,Chris Kisuuki,3,upper,6,4
-3531,Stuart Colville,4,upper,6,4
-3532,Jean-Jacques Enser,5,upper,6,4
-3533,Paul Booker,6,upper,6,4
-3534,Mark Cornmesser,7,upper,6,4
-3535,Jess Klein,8,upper,6,4
-3536,Julius Berry,9,upper,6,4
-3537,Jinkyu Yi,10,upper,6,4
-3538,Mike Cochran,1,upper,7,4
-3539,Alistair Vining,2,upper,7,4
-3540,Jonathan Freeman,3,upper,7,4
-3541,Kai-Zhen Li,4,upper,7,4
-3542,Linear Li,5,upper,7,4
-3543,James Socol,6,upper,7,4
-3544,Angus Davis,7,upper,7,4
-3545,Mocahammad Iqbal Anggawibawa,8,upper,7,4
-3546,Vishwanathan Krishnamoorthy,1,upper,8,4
-3547,Philipp Rumpf,2,upper,8,4
-3548,Marcus Ang,3,upper,8,4
-3549,Christopher Blizzard,4,upper,8,4
-3550,Ginn Chen,5,upper,8,4
-3551,Mike Beltzner,6,upper,8,4
-3552,Christian Persch,7,upper,8,4
-3553,Ahmed Soliman,8,upper,8,4
-3554,Abdul Rauf,1,upper,9,4
-3555,Rainer Staringer,2,upper,9,4
-3556,Juli·n Ceballos,3,upper,9,4
-3557,Syd Lawrence,4,upper,9,4
-3558,Michael Dayah,5,upper,9,4
-3559,John Wayne Hill,6,upper,9,4
-3560,Guillaume Destuynder,7,upper,9,4
-3561,Vipin VijayKumar,8,upper,9,4
-3562,Mihovil Stani?,9,upper,9,4
-3563,Randall Barker,1,upper,10,4
-3564,Ashish Vijayaram,2,upper,10,4
-3565,Patrick Lawler,3,upper,10,4
-3566,Robin Berjon,4,upper,10,4
-3567,Erica Muxlow,5,upper,10,4
-3568,Dewi Jones,6,upper,10,4
-3569,Terry Weissman,7,upper,10,4
-3570,Chahreddine Ben Ali,8,upper,10,4
-3571,Leon Sha,9,upper,10,4
-3572,Alice Nodelman,1,upper,11,4
-3573,Berker Peksag,2,upper,11,4
-3574,Eric Chang,3,upper,11,4
-3575,Chihiro Akiba,4,upper,11,4
-3576,Jacob Watkins,5,upper,11,4
-3577,Andre Natal,6,upper,11,4
-3578,Diogo Santos,7,upper,11,4
-3579,Balazs Koren,8,upper,11,4
-3580,Stephen Walker,9,upper,11,4
-3581,Arzhel Younsi,10,upper,11,4
-3582,Ankit Gadgil,1,upper,12,4
-3583,Caroline Wong,2,upper,12,4
-3584,Ryan Feeley,3,upper,12,4
-3585,Tobias Weibel,4,upper,12,4
-3586,Jean-Yves Perrier,5,upper,12,4
-3587,Naoki Hotta,6,upper,12,4
-3588,Towfique Anam,7,upper,12,4
-3589,Victor Carciu,8,upper,12,4
-3590,Arturo Martinez,9,upper,12,4
-3591,Joey Bowles,10,upper,12,4
-3592,Greg Carter,1,upper,13,4
-3593,Ioannis Charitopoulos,2,upper,13,4
-3594,Kris Maglione,3,upper,13,4
-3595,Mark Welch,4,upper,13,4
-3596,Michael Maslaney,5,upper,13,4
-3597,Mounir Lamouri,6,upper,13,4
-3598,Michiel van Leeuwen,7,upper,13,4
-3599,Henry Langi,8,upper,13,4
-3600,Pablo PÈrez Diez,9,upper,13,4
-3601,Mark Tyndall,1,upper,14,4
-3602,Marshall Moutenot,2,upper,14,4
-3603,Shawn Huang,3,upper,14,4
-3604,Michael Monreal,4,upper,14,4
-3605,Emily Compton,5,upper,14,4
-3606,Koichi Ariyoshi,6,upper,14,4
-3607,Gayatri Bhimaraju,7,upper,14,4
-3608,David Richards,8,upper,14,4
-3609,Erika Owens,9,upper,14,4
-3610,Luigi Tedone,1,upper,15,4
-3611,Yullyo Candra Sugara,2,upper,15,4
-3612,Elliott Slaughter,3,upper,15,4
-3613,Muhammad Mehmood Ali,4,upper,15,4
-3614,Patrick Finch,5,upper,15,4
-3615,Louie Zhao,6,upper,15,4
-3616,Robert Churchill,7,upper,15,4
-3617,Hari Amogh,8,upper,15,4
-3618,Lordson Okpetu,9,upper,15,4
-3619,Pablo Terradillos,1,upper,16,4
-3620,Glen Beasley,2,upper,16,4
-3621,David Bolter,3,upper,16,4
-3622,Johnny Stenback,4,upper,16,4
-3623,Rigin Oommen,5,upper,16,4
-3624,Stephen Hardt,6,upper,16,4
-3625,Julie Deroche,7,upper,16,4
-3626,Rafa? Muszy?ski,8,upper,16,4
-3627,Andrej Tilinger,9,upper,16,4
-3628,Tim McClarren,1,upper,17,4
-3629,Colin Frei,2,upper,17,4
-3630,Brian J Murrell,3,upper,17,4
-3631,Sunny Gogoi,4,upper,17,4
-3632,Sharif Ahammad,5,upper,17,4
-3633,Ashutosh Singh,6,upper,17,4
-3634,Suraj Kawade,7,upper,17,4
-3635,Sophea Sok,8,upper,17,4
-3636,Greg Weng,9,upper,17,4
-3637,Spencer Murray,10,upper,17,4
-3638,Erik Vergobbi Vold,1,upper,18,4
-3639,Bharath Thiruveedula,2,upper,18,4
-3640,Rongjun Mu,3,upper,18,4
-3641,Armen Zambrano Gasparnian,4,upper,18,4
-3642,Deb Richardson,5,upper,18,4
-3643,Vince DeMarco,6,upper,18,4
-3644,Panos Astithas,7,upper,18,4
-3645,Ochieng John Baptist,1,upper,19,4
-3646,Shinto Joseph,2,upper,19,4
-3647,William Alexander Chen,3,upper,19,4
-3648,Daniel Nunes,4,upper,19,4
-3649,Maire Reavy,5,upper,19,4
-3650,Hugo Acosta,6,upper,19,4
-3651,Bill Law,7,upper,19,4
-3652,Tharuka kannangara,8,upper,19,4
-3653,Judson Valeski,9,upper,19,4
-3654,Ian Oeschger,1,upper,20,4
-3655,Rejah Rehim,2,upper,20,4
-3656,Catherine Corre,3,upper,20,4
-3657,Andrew Baker,4,upper,20,4
-3658,Rajesh Ranjan,5,upper,20,4
-3659,Duncan Wilcox,6,upper,20,4
-3660,Chris Lattner,7,upper,20,4
-3661,CÈsar M CristÛbal,8,upper,20,4
-3662,Ana Hristova,9,upper,20,4
-3663,Roberta De Viti,10,upper,20,4
-3664,Sol Goldfarb,1,upper,21,4
-3665,Rethi Kumar,2,upper,21,4
-3666,Alex Vincent,3,upper,21,4
-3667,James Huff,4,upper,21,4
-3668,Rey Bango,5,upper,21,4
-3669,Mohamed Said Karim Benmerar,6,upper,21,4
-3670,Jaydson Gomes,7,upper,21,4
-3671,Grey Hodge,8,upper,21,4
-3672,Harry Lu,9,upper,21,4
-3673,Li Gong,10,upper,21,4
-3674,Akira Sasaki,1,upper,22,4
-3675,Dan Portillo,2,upper,22,4
-3676,Jaka Sulthon Hidayah,3,upper,22,4
-3677,Christian Heilmann,4,upper,22,4
-3678,Tony Gibbon,5,upper,22,4
-3679,Kohei Yoshino,6,upper,22,4
-3680,Buddy Lindsey,7,upper,22,4
-3681,Don Cone,8,upper,22,4
-3682,Pedro Antunes,9,upper,22,4
-3683,Kevin Huang,10,upper,22,4
-3684,Sebastian Ortiz,1,upper,23,4
-3685,Michael Beckwith,2,upper,23,4
-3686,Jo Daniel Aleksandersen,3,upper,23,4
-3687,Francisco Jordano,4,upper,23,4
-3688,Ben Branders,5,upper,23,4
-3689,Marcelo Poli,6,upper,23,4
-3690,Rajeev Bharshetty,7,upper,23,4
-3691,Trevor Reed,8,upper,23,4
-3692,Ian Hickson,9,upper,23,4
-3693,Karen Mejia,1,upper,24,4
-3694,Steve Faulkner,2,upper,24,4
-3695,Richard Cohn,3,upper,24,4
-3696,Vivien Nicolas,4,upper,24,4
-3697,Dave Dash,5,upper,24,4
-3698,Matt Stults,6,upper,24,4
-3699,Bobby Richter,7,upper,24,4
-3700,Vigneshwer Dhinakaran,8,upper,24,4
-3701,Dan Glastonbury,9,upper,24,4
-3702,Steve Clark,10,upper,24,4
-3703,G·bor Lipt·k,1,upper,25,4
-3704,Patipat Susumpow,2,upper,25,4
-3705,Hirotoshi Harunaga,3,upper,25,4
-3706,Nilson Cain,4,upper,25,4
-3707,Benjamin Smedberg,5,upper,25,4
-3708,Mohamed Rila,6,upper,25,4
-3709,Luis de Bethencourt,7,upper,25,4
-3710,Soren Juul Moller,8,upper,25,4
-3711,Alan Huang,1,upper,26,4
-3712,Sandeep Shedmake,2,upper,26,4
-3713,Jasper Hauser,3,upper,26,4
-3714,Samuel Murray,4,upper,26,4
-3715,Caroline Harp,5,upper,26,4
-3716,Patrick Thompson,6,upper,26,4
-3717,Sean Su,7,upper,26,4
-3718,Nick Kreeger,8,upper,26,4
-3719,Martin Srebotnjak,9,upper,26,4
-3720,Ryan Snyder,1,upper,27,4
-3721,Edwin Woudt,2,upper,27,4
-3722,Eitan Isaacson,3,upper,27,4
-3723,Christian Ascheberg,4,upper,27,4
-3724,Ramiro Estrugo,5,upper,27,4
-3725,Wilfred Mathanaraj,6,upper,27,4
-3726,Marc Jessome,7,upper,27,4
-3727,Chris Ilias,8,upper,27,4
-3728,Vincent PlainfossÈ,9,upper,27,4
-3729,Karen Prescott,1,upper,28,4
-3730,Chris Thomas,2,upper,28,4
-3731,Kentaro Teramoto,3,upper,28,4
-3732,Tiago Mello,4,upper,28,4
-3733,David Bengoa,5,upper,28,4
-3734,Emil Stanchev,6,upper,28,4
-3735,Alina Hua,7,upper,28,4
-3736,Desigan Chinniah,8,upper,28,4
-3737,Richard Sekamatte,9,upper,28,4
-3738,Faisal Badrudin,1,upper,29,4
-3739,Hiroshi Annaka,2,upper,29,4
-3740,Brett Gaylor,3,upper,29,4
-3741,Marcus Pallinger,4,upper,29,4
-3742,Daniel Brickley,5,upper,29,4
-3743,James Kitchener,6,upper,29,4
-3744,Alex Crichton,7,upper,29,4
-3745,Kristina Divina C Verbo,8,upper,29,4
-3746,Dan Hugo,9,upper,29,4
-3747,Ekanan Ketunuti,1,upper,30,4
-3748,Forrest Oliphant,2,upper,30,4
-3749,Joe Mansfield,3,upper,30,4
-3750,Luis Sanchez,4,upper,30,4
-3751,Willy Andres Acosta,5,upper,30,4
-3752,Lourdes Castillo,6,upper,30,4
-3753,Erik Klepsvik,7,upper,30,4
-3754,Joichi Ito,8,upper,30,4
-3755,Steve Harper,9,upper,30,4
-3756,Nicolas Pierron,10,upper,30,4
-3757,Colin Barrett,1,upper,31,4
-3758,Wilson Guaraca,2,upper,31,4
-3759,Adam Newman,3,upper,31,4
-3760,Terry Rather,4,upper,31,4
-3761,Daniel Boelzle,5,upper,31,4
-3762,Bhuvan Racham,6,upper,31,4
-3763,Jason Grlicky,7,upper,31,4
-3764,Slavomir Katuscak,8,upper,31,4
-3765,Debra Richardson,1,upper,32,4
-3766,Loba Yeasmeen,2,upper,32,4
-3767,Matteo Ferretti,3,upper,32,4
-3768,Ajay Kumar Jogawath,4,upper,32,4
-3769,Taras Glek,5,upper,32,4
-3770,Ummey Salma,6,upper,32,4
-3771,Rob Arnold,7,upper,32,4
-3772,Joanne Nguyen,8,upper,32,4
-3773,Martin Lawyer,9,upper,32,4
-3774,Aaron Swartz,1,upper,33,4
-3775,Kipp Hickman,2,upper,33,4
-3776,Larissa Co,3,upper,33,4
-3777,Thomas Baquet,4,upper,33,4
-3778,Cameron Smith,5,upper,33,4
-3779,Deng-Wei Chiang,6,upper,33,4
-3780,David Boswell,7,upper,33,4
-3781,Dan Scott,8,upper,33,4
-3782,Amiad B,9,upper,33,4
-3783,Mark Cote,10,upper,33,4
-3784,Harish K,11,upper,33,4
-3785,,1,upper,34,4
-3786,Shanjian Li,2,upper,34,4
-3787,Milan Sreckovic,3,upper,34,4
-3788,Elisa Helton,4,upper,34,4
-3789,Annie Elliott,5,upper,34,4
-3790,Hideo Saito,6,upper,34,4
-3791,William DeRouchey,7,upper,34,4
-3792,Miodrag Kekic,8,upper,34,4
-3793,Ankit Patel,9,upper,34,4
-3794,Steven Garrity,10,upper,34,4
-3795,Reed Snellenberger,11,upper,34,4
-3796,Martin Naumann,1,upper,35,4
-3797,Borting Chen,2,upper,35,4
-3798,Nicolas Cynober,3,upper,35,4
-3799,Ryan Flint,4,upper,35,4
-3800,D„o Gottwald,5,upper,35,4
-3801,MD Ashickur Rahman Noor,6,upper,35,4
-3802,Jonathan Harker,7,upper,35,4
-3803,Maniraj Thripuradhi,8,upper,35,4
-3804,Jeff Beatty,9,upper,35,4
-3805,Mustafa Al-Ameen,1,upper,36,4
-3806,Ali Al Dallal,2,upper,36,4
-3807,Viktor Vojni?,3,upper,36,4
-3808,Nick Desaulniers,4,upper,36,4
-3809,Stephen Horlander,5,upper,36,4
-3810,Christian Legnitto,6,upper,36,4
-3811,Mats Palmgren,7,upper,36,4
-3812,Sigita Pedzevi?ien?,8,upper,36,4
-3813,Philippe Basciano-Le Gall,1,upper,37,4
-3814,Austin King,2,upper,37,4
-3815,Christian Muehlhaeuser,3,upper,37,4
-3816,Simon Paquet,4,upper,37,4
-3817,Vladimir Vuki?evi?,5,upper,37,4
-3818,Matthew Noorenberghe,6,upper,37,4
-3819,Keng Susumpow,7,upper,37,4
-3820,Eric Ziegenhorn,1,upper,38,4
-3821,Kyle Simpson,2,upper,38,4
-3822,Dominic Serio,3,upper,38,4
-3823,Derkjan de Haan,4,upper,38,4
-3824,Florent Fayolle,5,upper,38,4
-3825,Andrew Hayward,6,upper,38,4
-3826,Tom Ottar R¯w,7,upper,38,4
-3827,Michel NÈdÈlec,8,upper,38,4
-3828,Greg Fiumara,9,upper,38,4
-3829,Alvin Duan,1,upper,39,4
-3830,S¯ren Munk Skr¯der,2,upper,39,4
-3831,Chris Double,3,upper,39,4
-3832,Elvir Cesko,4,upper,39,4
-3833,Guillaume Abadie,5,upper,39,4
-3834,Stuart Parmenter,6,upper,39,4
-3835,Kevin McCarthy,7,upper,39,4
-3836,John Hammink,8,upper,39,4
-3837,Elton LuÌs Minetto,9,upper,39,4
-3838,Rodrigo Moreno,1,upper,40,4
-3839,Matt Wobensmith,2,upper,40,4
-3840,Will Barkis,3,upper,40,4
-3841,Dia Bondi,4,upper,40,4
-3842,Robert Middleton,5,upper,40,4
-3843,Juan Carlos Paucar,6,upper,40,4
-3844,Stephanie Daugherty,7,upper,40,4
-3845,Alvar Maciel,8,upper,40,4
-3846,Maliha Momtaz Islam,1,upper,41,4
-3847,Sakina Groth,2,upper,41,4
-3848,Imran Omari,3,upper,41,4
-3849,Acro Circus,4,upper,41,4
-3850,Alfred Kayser,5,upper,41,4
-3851,Casey Yee,6,upper,41,4
-3852,Jacob Steenhagen,7,upper,41,4
-3853,Issa Mahasneh,8,upper,41,4
-3854,Tim Maks van den Broek,9,upper,41,4
-3855,Andrew Anderson,1,upper,42,4
-3856,Marco Bonardo,2,upper,42,4
-3857,Simona Badau,3,upper,42,4
-3858,Srinath Nadimpalli,4,upper,42,4
-3859,Adrian Havill,5,upper,42,4
-3860,Faisal Aziz,6,upper,42,4
-3861,Osama Mongy,7,upper,42,4
-3862,Jonathan Wilde,8,upper,42,4
-3863,Paul Stansifer,9,upper,42,4
-3864,Kristin Baird,1,upper,43,4
-3865,Robert O'Callahan,2,upper,43,4
-3866,Timothy John Watts,3,upper,43,4
-3867,Nicola Hughes,4,upper,43,4
-3868,Faye Tandog,5,upper,43,4
-3869,Nick Thweatt,6,upper,43,4
-3870,Akber Choudhry,7,upper,43,4
-3871,James Digby,8,upper,43,4
-3872,Aaron Wu,9,upper,43,4
-3873,FrÈdÈric Wenzel,1,upper,44,4
-3874,Niko Matsakis,2,upper,44,4
-3875,Luke Wagner,3,upper,44,4
-3876,Ratul Minhaz,4,upper,44,4
-3877,Alex Limi,5,upper,44,4
-3878,Bruce Davidson,6,upper,44,4
-3879,Sajjad Anwar,7,upper,44,4
-3880,Jonathan Granrose,8,upper,44,4
-3881,Paul Walker-Daley,9,upper,44,4
-3882,Patryk Adamczyk,1,upper,45,4
-3883,Cheng-Hung Ku,2,upper,45,4
-3884,Juergen Berg,3,upper,45,4
-3885,Zhijia Zhao,4,upper,45,4
-3886,Kev Needham,5,upper,45,4
-3887,Kailas Ravsaheb Patil,6,upper,45,4
-3888,Eduard Camonal Capdevila,7,upper,45,4
-3889,Viral Wang,8,upper,45,4
-3890,Philip Chee,9,upper,45,4
-3891,Adam Lock,1,upper,46,4
-3892,Martyn Haigh,2,upper,46,4
-3893,Julian Viereck,3,upper,46,4
-3894,Nabireeba James,4,upper,46,4
-3895,David McNamara,5,upper,46,4
-3896,Marek Laane,6,upper,46,4
-3897,Albert Villarde,7,upper,46,4
-3898,Anurag Patel,8,upper,46,4
-3899,Erin Lancaster,9,upper,46,4
-3900,Chris Crews,10,upper,46,4
-3901,Lianne Lee,1,upper,47,4
-3902,Ioana Chiorean,2,upper,47,4
-3903,Federico Mena-Quintero,3,upper,47,4
-3904,Gabriela Montagu,4,upper,47,4
-3905,Richard Alexander von Moltke Necochea,5,upper,47,4
-3906,Mark CÙtÈ,6,upper,47,4
-3907,Marvin Khoo,7,upper,47,4
-3908,Adib M Monzer Habbal,1,upper,48,4
-3909,Eric York,2,upper,48,4
-3910,David Gardiner,3,upper,48,4
-3911,Raju Pallath,4,upper,48,4
-3912,Amed «eko Jiyan,5,upper,48,4
-3913,Leo McArdle,6,upper,48,4
-3914,Kumar McMillan,7,upper,48,4
-3915,Joanne Nagel,8,upper,48,4
-3916,Saurabh Shah,9,upper,48,4
-3917,Jim Everingham,1,upper,49,4
-3918,Nick Hurley,2,upper,49,4
-3919,David Tenser,3,upper,49,4
-3920,Karen Louise Smith,4,upper,49,4
-3921,Nicholas Nethercote,5,upper,49,4
-3922,John Jensen,6,upper,49,4
-3923,Dawn Endico,7,upper,49,4
-3924,Michelle Luna,8,upper,49,4
-3925,David Hyatt,9,upper,49,4
-3926,JosÈ Junior Villagomez Melgar,1,upper,50,4
-3927,Brian Carpenter,2,upper,50,4
-3928,Tomoyuki Okazaki,3,upper,50,4
-3929,Denis Arnaud,4,upper,50,4
-3930,Jonathan Pereira,5,upper,50,4
-3931,Giorgos Logiotatidis,6,upper,50,4
-3932,Irina Sandu,7,upper,50,4
-3933,Terri Preston,8,upper,50,4
-3934,Paul Morris,1,upper,51,4
-3935,Sander Lepik,2,upper,51,4
-3936,Giao Nguyen,3,upper,51,4
-3937,Hans-Andreas Engel,4,upper,51,4
-3938,Rejeeb Abdul Rahiman,5,upper,51,4
-3939,Jason Ma,6,upper,51,4
-3940,Ben Tian,7,upper,51,4
-3941,Konstantin Lepikhov,8,upper,51,4
-3942,Misty Orr,9,upper,51,4
-3943,Niran Amir,10,upper,51,4
-3944,Pete Moore,1,upper,52,4
-3945,Nicholas Bebout,2,upper,52,4
-3946,Camelia Urian,3,upper,52,4
-3947,Kirk Baker,4,upper,52,4
-3948,Tom Schuster,5,upper,52,4
-3949,Mike Morgan,6,upper,52,4
-3950,Scott DeVaney,7,upper,52,4
-3951,Ivar Smolin,8,upper,52,4
-3952,Michelle Thorne,9,upper,52,4
-3953,Bob Jung,10,upper,52,4
-3954,Ibai Garcia,11,upper,52,4
-3955,Israt Jahan,1,upper,53,4
-3956,Nadim Kobeissi,2,upper,53,4
-3957,Parul Mathur,3,upper,53,4
-3958,Aras Balali Moghaddam,4,upper,53,4
-3959,Gaurav Bhardwaj,5,upper,53,4
-3960,Mic Berman,6,upper,53,4
-3961,Peter van der Woude,7,upper,53,4
-3962,Rob Thorne,8,upper,53,4
-3963,HÂkan Waara,9,upper,53,4
-3964,Saint Wesonga,1,upper,54,4
-3965,Viesturs Zari?ö,2,upper,54,4
-3966,Keiki Sunagawa,3,upper,54,4
-3967,Alan Kligman,4,upper,54,4
-3968,Shankar Prasad,5,upper,54,4
-3969,Joshua Cranmer,6,upper,54,4
-3970,Jonathan Kew,7,upper,54,4
-3971,Achmad Arief Hidayat,8,upper,54,4
-3972,Nicolas Silva,9,upper,54,4
-3973,Peter La,1,upper,55,4
-3974,Cristina Akimoff,2,upper,55,4
-3975,Hendrik Maryns,3,upper,55,4
-3976,Thejesh GN,4,upper,55,4
-3977,Thomas Mueller,5,upper,55,4
-3978,Foudil Foudil,6,upper,55,4
-3979,Oskar Ivani?,7,upper,55,4
-3980,Morgan Schweers,8,upper,55,4
-3981,Lloyd Hilaiel,9,upper,55,4
-3982,Joey Armstrong,10,upper,55,4
-3983,Carl X Su,1,upper,56,4
-3984,Teiji Matsuba,2,upper,56,4
-3985,Priyank Agarwal,3,upper,56,4
-3986,Christophe Gesch,4,upper,56,4
-3987,Jet Villegas,5,upper,56,4
-3988,William Bamberg,6,upper,56,4
-3989,Sadia Afroze,7,upper,56,4
-3990,Sujith Reddy,8,upper,56,4
-3991,Alexandru Szasz,9,upper,56,4
-3992,Bryan Clark,10,upper,56,4
-3993,Anas Husseini,1,upper,57,4
-3994,Zenat Rahnuma,2,upper,57,4
-3995,Jeremy Glassenberg,3,upper,57,4
-3996,Samuel Liu,4,upper,57,4
-3997,Tom Rini,5,upper,57,4
-3998,Priscilla Mahlangu,6,upper,57,4
-3999,Steve Chapel,7,upper,57,4
-4000,Renren Gab·s,8,upper,57,4
-4001,Radha Kulkarni,9,upper,57,4
-4002,Rodney Velasco,1,upper,58,4
-4003,Matheo Gracia Pegoraro,2,upper,58,4
-4004,Mark Anderson,3,upper,58,4
-4005,Reuven Gonen,4,upper,58,4
-4006,Danilo Quispe Lucana,5,upper,58,4
-4007,Gabriel Gomez,6,upper,58,4
-4008,Alexandra Lucinet,7,upper,58,4
-4009,Alexei Volkov,8,upper,58,4
-4010,Aaron Day,1,upper,59,4
-4011,Byron Jones,2,upper,59,4
-4012,Brian J Brennan,3,upper,59,4
-4013,Maggie Vail,4,upper,59,4
-4014,David Weir,5,upper,59,4
-4015,Sriharsha Chintalapani,6,upper,59,4
-4016,Chandan Kumar,7,upper,59,4
-4017,Rebecca Weiss,8,upper,59,4
-4018,Geoff Brown,9,upper,59,4
-4019,Patrick McCormick,1,upper,60,4
-4020,Wesley Johnston,2,upper,60,4
-4021,John Wolfe,3,upper,60,4
-4022,Gerg? Istv·n Nagy,4,upper,60,4
-4023,Pavel Franc,5,upper,60,4
-4024,Myk Melez,6,upper,60,4
-4025,Raivis Dejus,7,upper,60,4
-4026,Robert Bindar,8,upper,60,4
-4027,Erika Aurea Gatmaitan,9,upper,60,4
-4028,Samuel Boynton Foster,1,upper,61,4
-4029,Rick Gessner,2,upper,61,4
-4030,Jim Race,3,upper,61,4
-4031,Nagato Kasaki,4,upper,61,4
-4032,Chris Karnaze,5,upper,61,4
-4033,Manish Goregaokar,6,upper,61,4
-4034,Rick Bryce,7,upper,61,4
-4035,Mario Scheliga,8,upper,61,4
-4036,Matt Brubeck,9,upper,61,4
-4037,Kevin Karpenske,1,upper,62,4
-4038,Kalpa Pathum Welivitigoda,2,upper,62,4
-4039,Shao Hang Kao,3,upper,62,4
-4040,Jan Peuker,4,upper,62,4
-4041,Fabio Beneditto,5,upper,62,4
-4042,Giovanny Gongora Granada,6,upper,62,4
-4043,Rob Tucker,7,upper,62,4
-4044,Bartosz Piec,8,upper,62,4
-4045,Jan K¸chler,1,upper,63,4
-4046,Santiago Ferreira,2,upper,63,4
-4047,M?ris Fogels,3,upper,63,4
-4048,Joe Stevensen,4,upper,63,4
-4049,Joe Hewitt,5,upper,63,4
-4050,Terje Runde,6,upper,63,4
-4051,Asiri Ranasinghe,7,upper,63,4
-4052,Jason Heirtzler,8,upper,63,4
-4053,George Murage,9,upper,63,4
-4054,Hyeonseok Shin,10,upper,63,4
-4055,Tano Kan - Man Hui Chris Brian,1,upper,64,4
-4056,Bhaskar Chattoraj,2,upper,64,4
-4057,Eugeniu Stratila,3,upper,64,4
-4058,Stephanie Schipper,4,upper,64,4
-4059,Jussi Bergstr,5,upper,64,4
-4060,Belakhdar Abdeldjalil,6,upper,64,4
-4061,Heather Meeker,7,upper,64,4
-4062,Dominik Hiltbrunner,1,upper,65,4
-4063,Jim Mathies,2,upper,65,4
-4064,Wes Garland,3,upper,65,4
-4065,Devdatta Akhawe,4,upper,65,4
-4066,Nick Thomas,5,upper,65,4
-4067,Hiromi Imazato,6,upper,65,4
-4068,Diego Landa,7,upper,65,4
-4069,Frederick Plourde,8,upper,65,4
-4070,CaoimhÌn ” Donnaile,9,upper,65,4
-4071,Jing Zhang,1,lower,1,4
-4072,Jon Coppeard,2,lower,1,4
-4073,Conor Farrell,3,lower,1,4
-4074,John Karahalis,4,lower,1,4
-4075,Tim Rice,5,lower,1,4
-4076,Michelle Santos,6,lower,1,4
-4077,Corey Richardson,7,lower,1,4
-4078,Andrew Staley,8,lower,1,4
-4079,Pamela Divambal Subbaraya Pillai,9,lower,1,4
-4080,Robert Sim,1,lower,2,4
-4081,Stevan Prodanovi?,2,lower,2,4
-4082,Sammy Fung,3,lower,2,4
-4083,Tim Rowley,4,lower,2,4
-4084,Pin Zhang,5,lower,2,4
-4085,Miguel Ortiz,6,lower,2,4
-4086,Neil Cronin,7,lower,2,4
-4087,Gareth Aye,8,lower,2,4
-4088,Nguy?n M?nh H˘ng,9,lower,2,4
-4089,MyoungGwon Yang,10,lower,2,4
-4090,Julija Klimkien?,1,lower,3,4
-4091,Mike McCool,2,lower,3,4
-4092,Gabriel Ivanica,3,lower,3,4
-4093,Jesse von Doom,4,lower,3,4
-4094,Chris Psaltis,5,lower,3,4
-4095,Carlos Valim Coragem,6,lower,3,4
-4096,Mohamed Manai,7,lower,3,4
-4097,Zack Carter,8,lower,3,4
-4098,Kenichi Fujii,9,lower,3,4
-4099,Mohd Izwan Ismail,1,lower,4,4
-4100,Richard Robert Bryce,2,lower,4,4
-4101,Roman Huy-Prech,3,lower,4,4
-4102,Shashi Narain,4,lower,4,4
-4103,Aleks Reinhardt,5,lower,4,4
-4104,Robin Mehdee,6,lower,4,4
-4105,Jonathan Watt,7,lower,4,4
-4106,Albin P Albert,8,lower,4,4
-4107,Bryan Atwood,9,lower,4,4
-4108,Lucas Blair,1,lower,5,4
-4109,Jeferson Hultmann,2,lower,5,4
-4110,Ron Ratovsky,3,lower,5,4
-4111,Matt Fisher,4,lower,5,4
-4112,Tanha Islam,5,lower,5,4
-4113,Alba G Fuentes,6,lower,5,4
-4114,Allan Masri,7,lower,5,4
-4115,John McMullen,8,lower,5,4
-4116,Rami Khader,9,lower,5,4
-4117,Eoin Norris,10,lower,5,4
-4118,Casey Becking,1,lower,6,4
-4119,Felipe Nascimento de Moura,2,lower,6,4
-4120,Jayesh Sheth,3,lower,6,4
-4121,Parmpreet singh,4,lower,6,4
-4122,David Lilly,5,lower,6,4
-4123,Joe Francis,6,lower,6,4
-4124,Andrei Hajdukewycz,7,lower,6,4
-4125,Antoine Duparay,8,lower,6,4
-4126,Chris Waterson,1,lower,7,4
-4127,Steven Michaud,2,lower,7,4
-4128,William Hsu,3,lower,7,4
-4129,Arnaud Sourioux,4,lower,7,4
-4130,Simon Wilkinson,5,lower,7,4
-4131,Mihai Sucan,6,lower,7,4
-4132,Erick LeÛn Bolinaga,7,lower,7,4
-4133,Carl Meyer,8,lower,7,4
-4134,Sergiu Mezei,9,lower,7,4
-4135,Pablo Laurino,1,lower,8,4
-4136,RJ Ian Sevilla,2,lower,8,4
-4137,Viking Karwur,3,lower,8,4
-4138,Torsten R¸ger,4,lower,8,4
-4139,Matt Brandt,5,lower,8,4
-4140,Andrei Eftimie,6,lower,8,4
-4141,Kendall Libby,7,lower,8,4
-4142,John Dennis,8,lower,8,4
-4143,Dimi Lee,9,lower,8,4
-4144,Rafael Espindola,10,lower,8,4
-4145,Ming Tsay,11,lower,8,4
-4146,Mike Conley,1,lower,9,4
-4147,Ahmad Sarjono,2,lower,9,4
-4148,Jeffrey S Kobal,3,lower,9,4
-4149,Catalin Suciu,4,lower,9,4
-4150,Selim Sumlu,5,lower,9,4
-4151,Jennifer Fong,6,lower,9,4
-4152,CÈdric Corazza,7,lower,9,4
-4153,Lynee Luque,8,lower,9,4
-4154,Richard Hess,9,lower,9,4
-4155,Thu Nguyen,10,lower,9,4
-4156,Prashish,11,lower,9,4
-4157,Brian Anderson,1,lower,10,4
-4158,Naresh Kumar,2,lower,10,4
-4159,Dave Villacreses,3,lower,10,4
-4160,Anurag Sharma,4,lower,10,4
-4161,M·rio Rinaldi,5,lower,10,4
-4162,Nikola Matosovic,6,lower,10,4
-4163,Phil Ringnalda,7,lower,10,4
-4164,Santiago Hollmann,8,lower,10,4
-4165,Lindsay Kenzig,9,lower,10,4
-4166,David Mandelin,1,lower,11,4
-4167,Joell Lapitan,2,lower,11,4
-4168,Maliha Islam,3,lower,11,4
-4169,Urska Colner,4,lower,11,4
-4170,Shaon Barman,5,lower,11,4
-4171,Jennifer Glick,6,lower,11,4
-4172,Namachivayam Thirumazhusai,7,lower,11,4
-4173,Vlad Filippov,8,lower,11,4
-4174,Patrick Gu,9,lower,11,4
-4175,Simon Fraser,1,lower,12,4
-4176,Tim Cormier,2,lower,12,4
-4177,San Emmanuel James,3,lower,12,4
-4178,Steve Chung,4,lower,12,4
-4179,Marcello Fontolan,5,lower,12,4
-4180,Tetsuharu Ohzeki,6,lower,12,4
-4181,Hankin Chick,7,lower,12,4
-4182,Boris Prpi?,8,lower,12,4
-4183,Diogo Borges,9,lower,12,4
-4184,Kyeongho Im,1,lower,13,4
-4185,Vladimir Plotean,2,lower,13,4
-4186,Amy Tsay,3,lower,13,4
-4187,Luca Greco,4,lower,13,4
-4188,Ashutosh Das,5,lower,13,4
-4189,Pheledi Mathibela,6,lower,13,4
-4190,Tony Chung,7,lower,13,4
-4191,Kumar Saurabh,8,lower,13,4
-4192,David Lechner,9,lower,13,4
-4193,Steven Roussey,10,lower,13,4
-4194,Owen Marshall,1,lower,14,4
-4195,Amy Rich,2,lower,14,4
-4196,Wesley Huang,3,lower,14,4
-4197,Lionel Bartholin,4,lower,14,4
-4198,James Clark,5,lower,14,4
-4199,Angela Butler-McDonald,6,lower,14,4
-4200,Muhammad Fikri,7,lower,14,4
-4201,Juan GÛmez,8,lower,14,4
-4202,Pablo Cuadrado,9,lower,14,4
-4203,PÈter Bajusz,1,lower,15,4
-4204,Makoto Arai,2,lower,15,4
-4205,Mavis Ou,3,lower,15,4
-4206,Chee Aun Lim,4,lower,15,4
-4207,Ashlee Chavez,5,lower,15,4
-4208,Robert Kaiser,6,lower,15,4
-4209,Krishnababu Krothapalli,7,lower,15,4
-4210,Cakkavati Kusuma,8,lower,15,4
-4211,R J Keller,9,lower,15,4
-4212,Trevor Hardcastle,1,lower,16,4
-4213,Bevis Tseng,2,lower,16,4
-4214,Nazmul Huda,3,lower,16,4
-4215,Geoff Lankow,4,lower,16,4
-4216,Tom Ellins,5,lower,16,4
-4217,Torstein H¯nsi,6,lower,16,4
-4218,Don Melton,7,lower,16,4
-4219,Mike Kaplinskiy,8,lower,16,4
-4220,Antok Suryaden,9,lower,16,4
-4221,Wei-Lun Sun,10,lower,16,4
-4222,Srinivas Lingutla,1,lower,17,4
-4223,John Resig,2,lower,17,4
-4224,Glen Mailer,3,lower,17,4
-4225,Carlos Reyes,4,lower,17,4
-4226,Cameron Dawson,5,lower,17,4
-4227,Hanno Schlichting,6,lower,17,4
-4228,Ben Adida,7,lower,17,4
-4229,Ben Kero,8,lower,17,4
-4230,Pierre Saslawsky,9,lower,17,4
-4231,Dan Poirier,10,lower,17,4
-4232,Rick Elliott,1,lower,18,4
-4233,Ian Barlow,2,lower,18,4
-4234,Massimo Gervasini,3,lower,18,4
-4235,Kimber Schlegelmilch,4,lower,18,4
-4236,Osama Abukmail,5,lower,18,4
-4237,Anas Tlili,6,lower,18,4
-4238,Steve Mansour,7,lower,18,4
-4239,Emma Irwin,8,lower,18,4
-4240,Ricardo Sato,9,lower,18,4
-4241,Sylvie Veilleux,10,lower,18,4
-4242,Sam Penrose,1,lower,19,4
-4243,Sebastian Hengst,2,lower,19,4
-4244,Mark Surman,3,lower,19,4
-4245,Dino Kova,4,lower,19,4
-4246,Balanithy Murugaiah,5,lower,19,4
-4247,Jefferson Scher,6,lower,19,4
-4248,Andrew Niese,7,lower,19,4
-4249,Karen Jeffrey,8,lower,19,4
-4250,Jo„o Neves,9,lower,19,4
-4251,Dang Duy Thanh,1,lower,20,4
-4252,Sitanshu Raj,2,lower,20,4
-4253,Joji Ikeda,3,lower,20,4
-4254,Anna Arnall,4,lower,20,4
-4255,Matthew Larrain,5,lower,20,4
-4256,Ryan Laverdiere,6,lower,20,4
-4257,David Eaves,7,lower,20,4
-4258,Daniel Holbert,8,lower,20,4
-4259,Robert Okadar,9,lower,20,4
-4260,Rich Walsh,10,lower,20,4
-4261,Jens Bannmann,1,lower,21,4
-4262,shams,2,lower,21,4
-4263,Fredrik Sundberg,3,lower,21,4
-4264,Marek St?pie?,4,lower,21,4
-4265,Rob Ginda,5,lower,21,4
-4266,Dominik Tobschall,6,lower,21,4
-4267,Breno G de Oliveira,7,lower,21,4
-4268,HervÈ Renault,8,lower,21,4
-4269,Katharina Borchert,9,lower,21,4
-4270,Nathan Malkin,1,lower,22,4
-4271,Masoud Ahmadzadeh,2,lower,22,4
-4272,Masaaki Saitoh,3,lower,22,4
-4273,Mike Hoye,4,lower,22,4
-4274,Vishnu P Sudarsan,5,lower,22,4
-4275,Tom Weinstein,6,lower,22,4
-4276,Rita Farinha,7,lower,22,4
-4277,Chris Riley,8,lower,22,4
-4278,Asa Lugada,9,lower,22,4
-4279,Stuart Ballard,10,lower,22,4
-4280,Jamie Zawinski,1,lower,23,4
-4281,Saikiran Chandha,2,lower,23,4
-4282,Zbigniew Braniecki,3,lower,23,4
-4283,Aaron Train,4,lower,23,4
-4284,Jason Thomas,5,lower,23,4
-4285,Tim Babych,6,lower,23,4
-4286,Abdullah Diaa,7,lower,23,4
-4287,Michelle Lei,8,lower,23,4
-4288,Bindu Sharma,9,lower,23,4
-4289,Pooja Ahuja,10,lower,23,4
-4290,Ben Morrow,1,lower,24,4
-4291,John Lin,2,lower,24,4
-4292,Peter Neubauer,3,lower,24,4
-4293,Valentin Gosu,4,lower,24,4
-4294,Alcides Javier Torres Gutt,5,lower,24,4
-4295,Christian Wenz,6,lower,24,4
-4296,Amirol Ahmad,7,lower,24,4
-4297,Sam Garrett,8,lower,24,4
-4298,Erik van der Poel,9,lower,24,4
-4299,Dethe Elza,1,lower,25,4
-4300,Mahrazi Mohd Kamal,2,lower,25,4
-4301,Michael Hein,3,lower,25,4
-4302,Shirley Woo,4,lower,25,4
-4303,Arky,5,lower,25,4
-4304,Aneta Burai,6,lower,25,4
-4305,Novica Nakov,7,lower,25,4
-4306,Jennifer Hao,8,lower,25,4
-4307,Nisheeth Ranjan,9,lower,25,4
-4308,Ben Goodger,10,lower,25,4
-4309,Mardi Douglass,1,lower,26,4
-4310,Kamil Lach,2,lower,26,4
-4311,Victoria Graham,3,lower,26,4
-4312,Norris Boyd,4,lower,26,4
-4313,Ryan Seys,5,lower,26,4
-4314,Conrad Carlen,6,lower,26,4
-4315,Kaitlin Thaney,7,lower,26,4
-4316,Srijib Roy,8,lower,26,4
-4317,Ryan VanderMeulen,9,lower,26,4
-4318,Kazuyoshi Kato,10,lower,26,4
-4319,J Shane Culpepper,1,lower,27,4
-4320,Sidharth Chugh,2,lower,27,4
-4321,Richard Newman,3,lower,27,4
-4322,Daniel Belet,4,lower,27,4
-4323,Leif Hedstrom,5,lower,27,4
-4324,Lloyd Tabb,6,lower,27,4
-4325,Keith Visco,7,lower,27,4
-4326,Benjamin Young,8,lower,27,4
-4327,Karen Scarfone,9,lower,27,4
-4328,Benjamin,10,lower,27,4
-4329,Pokharel,1,lower,28,4
-4330,Chi Yau,2,lower,28,4
-4331,Tobias Markus,3,lower,28,4
-4332,Mime ?uvalo,4,lower,28,4
-4333,Carl Adams,5,lower,28,4
-4334,Alan Monfort,6,lower,28,4
-4335,Karl Guertin,7,lower,28,4
-4336,Khairuddin Aziz,8,lower,28,4
-4337,Wissam Imad Alazzam,9,lower,28,4
-4338,Colin R Blake,10,lower,28,4
-4339,Danijel,11,lower,28,4
-4340,änajder,1,lower,29,4
-4341,Austin Bissessar,2,lower,29,4
-4342,Robert Watkins,3,lower,29,4
-4343,Michael Verdi,4,lower,29,4
-4344,Girish Mony,5,lower,29,4
-4345,Kelvin «obanaj,6,lower,29,4
-4346,Dan Parsons,7,lower,29,4
-4347,Dan Veditz,8,lower,29,4
-4348,Eric Vaughan,9,lower,29,4
-4349,Clifford Opwonya,10,lower,29,4
-4350,Andrew,11,lower,29,4
-4351,Trapp,1,lower,30,4
-4352,Harshal Pradhan,2,lower,30,4
-4353,Jan de Mooij,3,lower,30,4
-4354,Julien Vehent,4,lower,30,4
-4355,Dave Vasilevsky,5,lower,30,4
-4356,Piotr Komoda,6,lower,30,4
-4357,Robert Helmer,7,lower,30,4
-4358,Adriano Cupello,8,lower,30,4
-4359,Gail White,9,lower,30,4
-4360,Seth Bindernagel,1,lower,31,4
-4361,Michael Shal,2,lower,31,4
-4362,Jarrod Gray,3,lower,31,4
-4363,Abhishek Nagar,4,lower,31,4
-4364,Dionysios Synodinos,5,lower,31,4
-4365,Christoph Diehl,6,lower,31,4
-4366,Ray Chen,7,lower,31,4
-4367,Ville Pohjanheimo,8,lower,31,4
-4368,Darshan Jani,9,lower,31,4
-4369,Brendan Colloran,1,lower,32,4
-4370,Tom Dell,2,lower,32,4
-4371,Ezres Anitah Az,3,lower,32,4
-4372,Ryoichi Furukawa,4,lower,32,4
-4373,Kenny Katzgrau,5,lower,32,4
-4374,Haggen So,6,lower,32,4
-4375,Bob Lord,7,lower,32,4
-4376,Jennifer Zickerman,8,lower,32,4
-4377,Manuel Aristar·n,9,lower,32,4
-4378,A Ambrose,10,lower,32,4
-4379,Jonathan Eads,1,lower,33,4
-4380,Aleecia McDonald,2,lower,33,4
-4381,Justin Wood,3,lower,33,4
-4382,Jay Yan,4,lower,33,4
-4383,David McCusker,5,lower,33,4
-4384,M Devendra Kumar Dora,6,lower,33,4
-4385,Paola Da Silva,7,lower,33,4
-4386,Shashank Roy,8,lower,33,4
-4387,Deiby Fabian OrdoÒez DÌaz,1,lower,34,4
-4388,Walter Javier Valero Torres,2,lower,34,4
-4389,Lucas Fabiani,3,lower,34,4
-4390,Jan Jongboom,4,lower,34,4
-4391,Chris Siegler,5,lower,34,4
-4392,Matthew MacPherson,6,lower,34,4
-4393,Ain Vagula,7,lower,34,4
-4394,Alma Granov,8,lower,34,4
-4395,Shih-Chiang Chien,1,lower,35,4
-4396,Abdul Mannan Asif,2,lower,35,4
-4397,Haitham El-Ghareeb,3,lower,35,4
-4398,Hagen Halbach,4,lower,35,4
-4399,Hassadee Pimsuwan,5,lower,35,4
-4400,Irakli Gozalishvili,6,lower,35,4
-4401,Abid Aboobaker,7,lower,35,4
-4402,Frederik Braun,8,lower,35,4
-4403,Shelly Lin,1,lower,36,4
-4404,Arthit Suriyawongkul,2,lower,36,4
-4405,Anthony Piraino,3,lower,36,4
-4406,Tobias Schneider,4,lower,36,4
-4407,JR Galia,5,lower,36,4
-4408,Andrew Chang,6,lower,36,4
-4409,Thirunahari Dyvik Chenna,7,lower,36,4
-4410,Joanna Mazgaj,8,lower,36,4
-4411,Sheela Ravindran,1,lower,37,4
-4412,Ben Bucksch,2,lower,37,4
-4413,Muhammad Shakir Bin Sudar,3,lower,37,4
-4414,Jittat Fakcharoenphol,4,lower,37,4
-4415,Spyros Livathinos,5,lower,37,4
-4416,Tom Herold,6,lower,37,4
-4417,Steve Fink,7,lower,37,4
-4418,Aleksey Chalabyan,8,lower,37,4
-4419,Pradeep Sanders,1,lower,38,4
-4420,Michael Daumling,2,lower,38,4
-4421,Barbara Hueppe,3,lower,38,4
-4422,Yousef Alam,4,lower,38,4
-4423,Jean-Bernard Marcon,5,lower,38,4
-4424,Burak Yi?it Kaya,6,lower,38,4
-4425,Ben Laurie,7,lower,38,4
-4426,Mauricio Luis Comin Araldi,8,lower,38,4
-4427,Berkley Shands,1,lower,39,4
-4428,Kemcy Best,2,lower,39,4
-4429,Chun Yuan Cheng,3,lower,39,4
-4430,Wayne Chang,4,lower,39,4
-4431,Dan McGuirk,5,lower,39,4
-4432,Shane Tomlinson,6,lower,39,4
-4433,hATrayflood,7,lower,39,4
-4434,Quentin Raynaud,8,lower,39,4
-4435,Dylan Oliver,9,lower,39,4
-4436,Hung-Te Lin,10,lower,39,4
-4437,Jonathan Lin,1,lower,40,4
-4438,Maxim Zhilyaev,2,lower,40,4
-4439,Anibe Agamah,3,lower,40,4
-4440,Michael Zanini,4,lower,40,4
-4441,Vito Smolej,5,lower,40,4
-4442,Ally Gibely,6,lower,40,4
-4443,Wayne Mery,7,lower,40,4
-4444,Sangeeta Kumari,8,lower,40,4
-4445,Roger Lawrence,9,lower,40,4
-4446,Katsuhiko Momoi,10,lower,40,4
-4447,Robert J Wood,1,lower,41,4
-4448,Kannan Vijayan,2,lower,41,4
-4449,Jan Leger,3,lower,41,4
-4450,Srishanu Lokupathirage,4,lower,41,4
-4451,Krzysztof G??bowicz,5,lower,41,4
-4452,Andre Klapper,6,lower,41,4
-4453,Odin Mojica,7,lower,41,4
-4454,Ryan Bacon,8,lower,41,4
-4455,Olivier Gambier,9,lower,41,4
-4456,SÈbastien Desvignes,1,lower,42,4
-4457,Kurt Swanson,2,lower,42,4
-4458,Connor Montgomery,3,lower,42,4
-4459,Danny Moules,4,lower,42,4
-4460,Manuela Muntean,5,lower,42,4
-4461,Aditya Jalgaonkar,6,lower,42,4
-4462,Lawrence Kisuuki,7,lower,42,4
-4463,Pedro Alves,8,lower,42,4
-4464,Meraj Imran,1,lower,43,4
-4465,Stephane Saux,2,lower,43,4
-4466,Jeff Walden,3,lower,43,4
-4467,VladimÌr Valaötiak,4,lower,43,4
-4468,Omar David Sandoval Sida,5,lower,43,4
-4469,Will Scullin,6,lower,43,4
-4470,Olivier Yiptong,7,lower,43,4
-4471,Jay Clark,8,lower,43,4
-4472,Leszek ?yczkowski,1,lower,44,4
-4473,Byron Campen,2,lower,44,4
-4474,Arun Kumar,3,lower,44,4
-4475,Dave Hunt,4,lower,44,4
-4476,Asad Sajjad,5,lower,44,4
-4477,Ludovic Hirlimann,6,lower,44,4
-4478,Jo„o Menezes,7,lower,44,4
-4479,Jaisen Mathai,8,lower,44,4
-4480,Richard K Lloyd,9,lower,44,4
-4481,Sam Tobin-Hochstadt,1,lower,45,4
-4482,Jill Alvarez,2,lower,45,4
-4483,Chris McAvoy,3,lower,45,4
-4484,Eric A Meyer,4,lower,45,4
-4485,Be Chantra,5,lower,45,4
-4486,Stephen Murphy,6,lower,45,4
-4487,Charles Manske,7,lower,45,4
-4488,Sukhbir Singh,8,lower,45,4
-4489,Vicamo Yang,9,lower,45,4
-4490,Andreas Gal,10,lower,45,4
-4491,Eric Shepherd,1,lower,46,4
-4492,Martin Hosken,2,lower,46,4
-4493,Shawn Wilsher,3,lower,46,4
-4494,Bill Gianopoulos,4,lower,46,4
-4495,Imrizal Pratama,5,lower,46,4
-4496,Lisa Brewster,6,lower,46,4
-4497,Andreas Nilsson,7,lower,46,4
-4498,Samuel Sidler,8,lower,46,4
-4499,Jan-Espen Pettersen,9,lower,46,4
-4500,Lawrz Libo-on,1,lower,47,4
-4501,Jesse Montano,2,lower,47,4
-4502,Andy Chung,3,lower,47,4
-4503,Mike Taylor,4,lower,47,4
-4504,Ragavan Srinivasan,5,lower,47,4
-4505,Hans Hillen,6,lower,47,4
-4506,Kurniawan Wira Handito,7,lower,47,4
-4507,Noah Veltman,8,lower,47,4
-4508,Kazushi Marukawa,9,lower,47,4
-4509,York Du,1,lower,48,4
-4510,Mohomodou Houssouba,2,lower,48,4
-4511,Eugen Stratila,3,lower,48,4
-4512,Aakash Desai,4,lower,48,4
-4513,John Drinkwater,5,lower,48,4
-4514,Hooshmand Hasannia,6,lower,48,4
-4515,Kevin Murray,7,lower,48,4
-4516,Chris Peterson,8,lower,48,4
-4517,Thorsten Heit,9,lower,48,4
-4518,Yash Shah,1,lower,49,4
-4519,Dimi Shahbaz,2,lower,49,4
-4520,Marek Generowicz,3,lower,49,4
-4521,AndrÈ Fiedler,4,lower,49,4
-4522,Duong Nguyen,5,lower,49,4
-4523,Greg Maxwell,6,lower,49,4
-4524,Ben Hearsum,7,lower,49,4
-4525,Rebecca Billings,8,lower,49,4
-4526,Mark Harvey,9,lower,49,4
-4527,Jan-Ivar Bruaroey,1,lower,50,4
-4528,Chen-Heng Chang,2,lower,50,4
-4529,Jannis Leidel,3,lower,50,4
-4530,Tom Jao,4,lower,50,4
-4531,Adrian Kalla,5,lower,50,4
-4532,Benson Wong,6,lower,50,4
-4533,Mario Garbi,7,lower,50,4
-4534,Sarah E V Liberman,8,lower,50,4
-4535,Robin Lu,9,lower,50,4
-4536,Bwire Ancel,10,lower,50,4
+2131,S Setia
